@@ -1,4 +1,4 @@
-name: Facebook Fanpage Crawler
+name: FPT University News Crawler
 
 on:
   schedule:
@@ -24,16 +24,14 @@ jobs:
       - name: Install dependencies
         run: pip install requests openpyxl
 
-      - name: Run Facebook Crawler
-        env:
-          FB_TOKEN: ${{ secrets.FB_TOKEN }}
+      - name: Run FPT News Crawler
         run: python fb_crawler.py
 
       - name: Upload Excel report
         uses: actions/upload-artifact@v4
         with:
-          name: fb-report-${{ github.run_number }}
-          path: 'data/*.xlsx'
+          name: fpt-news-${{ github.run_number }}
+          path: 'data/fpt_news_*.xlsx'
           retention-days: 30
 
       - name: Save data to repo
@@ -41,5 +39,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "chore: update fb data [skip ci]"
+          git diff --staged --quiet || git commit -m "chore: update fpt news data [skip ci]"
           git push || true
