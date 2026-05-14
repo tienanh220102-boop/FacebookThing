@@ -26,8 +26,9 @@ PAGES = {
     'FPT University HCM': 'FPTU.HCM',
 }
 
-# Lay du lieu bao nhieu gio gan nhat (mac dinh 24h)
-HOURS_LOOKBACK = 24
+# Lay du lieu bao nhieu gio gan nhat
+# 0 = lay tat ca bai (khong gioi han) | 24 = chi lay 24h gan nhat
+HOURS_LOOKBACK = 0
 
 # ── Goi API ───────────────────────────────────────────────────
 def api_get(endpoint, params=None):
@@ -214,11 +215,16 @@ def main():
         return
 
     now_vn   = datetime.now(VN_TZ)
-    since_ts = (now_vn - timedelta(hours=HOURS_LOOKBACK)).timestamp()
-    since_display = datetime.fromtimestamp(since_ts, tz=VN_TZ).strftime('%d/%m %H:%M')
+    if HOURS_LOOKBACK > 0:
+        since_ts = (now_vn - timedelta(hours=HOURS_LOOKBACK)).timestamp()
+        since_display = datetime.fromtimestamp(since_ts, tz=VN_TZ).strftime('%d/%m %H:%M')
+        lookback_text = f'tu {since_display} den bay gio ({HOURS_LOOKBACK}h)'
+    else:
+        since_ts = None
+        lookback_text = 'tat ca bai dang (khong gioi han thoi gian)'
 
     print(f'=== Facebook Crawler v1 — {now_vn.strftime("%d/%m/%Y %H:%M")} (Gio VN) ===')
-    print(f'Thu thap bai dang tu {since_display} den bay gio ({HOURS_LOOKBACK}h)...')
+    print(f'Thu thap {lookback_text}...')
 
     pages_info = {}
     all_posts  = []
@@ -233,7 +239,7 @@ def main():
         else:
             print('  Khong lay duoc thong tin page')
 
-        posts_raw = get_posts(page_id, since_ts=since_ts)
+        posts_raw = get_posts(page_id, since_ts=since_ts if HOURS_LOOKBACK > 0 else None)
         print(f'  Lay duoc {len(posts_raw)} bai dang')
 
         for p in posts_raw:
