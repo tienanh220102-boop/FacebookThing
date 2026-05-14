@@ -23,11 +23,7 @@ VN_TZ     = timezone(timedelta(hours=7))
 # Danh sach fanpage can theo doi (username hoac Page ID)
 # Them/bot bang cach chinh sua dict nay
 PAGES = {
-    'VnExpress':  'vnexpress.net',
-    'Tuoi Tre':   'tuoitreonline',
-    'Dan Tri':    'dantri',
-    'Thanh Nien': 'thanhnien',
-    'VTV':        'vtv.vn',
+    'FPT University HCM': 'FPTU.HCM',
 }
 
 # Lay du lieu bao nhieu gio gan nhat (mac dinh 24h)
