@@ -1,0 +1,45 @@
+name: Facebook Fanpage Crawler
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 7h sang Viet Nam (UTC+7 = 0h UTC)
+  workflow_dispatch:       # Cho phep chay thu cong
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests openpyxl
+
+      - name: Run Facebook Crawler
+        env:
+          FB_TOKEN: ${{ secrets.FB_TOKEN }}
+        run: python fb_crawler.py
+
+      - name: Upload Excel report
+        uses: actions/upload-artifact@v4
+        with:
+          name: fb-report-${{ github.run_number }}
+          path: 'data/*.xlsx'
+          retention-days: 30
+
+      - name: Save data to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/fb_data.json
+          git diff --staged --quiet || git commit -m "chore: update fb data [skip ci]"
+          git push
