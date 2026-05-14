@@ -15,7 +15,7 @@ import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment
 
 # ── Cau hinh ──────────────────────────────────────────────────
-DATA_FILE = 'data/fpt_data.json'
+DATA_FILE = 'Trang web FPT/fpt_data.json'
 VN_TZ     = timezone(timedelta(hours=7))
 
 # RSS feeds chinh thuc cua Dai hoc FPT
@@ -155,9 +155,9 @@ def main():
         print('\nKhong co bai viet nao. Kiem tra ket noi mang hoac RSS feed.')
         return
 
-    os.makedirs('data', exist_ok=True)
+    os.makedirs('Trang web FPT', exist_ok=True)
     date_str   = now_vn.strftime('%Y%m%d')
-    excel_file = f'data/fpt_news_{date_str}.xlsx'
+    excel_file = f'Trang web FPT/fpt_news_{date_str}.xlsx'
     print(f'\nXuat Excel...')
     export_excel(all_articles, excel_file)
 

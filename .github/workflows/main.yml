@@ -31,13 +31,13 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: fpt-news-${{ github.run_number }}
-          path: 'data/fpt_news_*.xlsx'
+          path: 'Trang web FPT/fpt_news_*.xlsx'
           retention-days: 30
 
       - name: Save data to repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add "Trang web FPT/"
           git diff --staged --quiet || git commit -m "chore: update fpt news data [skip ci]"
           git push || true
