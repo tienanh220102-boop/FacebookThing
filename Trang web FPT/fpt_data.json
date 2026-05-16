@@ -1,7 +1,15 @@
 {
-  "crawled_at": "2026-05-15T17:01:51.956851+07:00",
+  "crawled_at": "2026-05-16T14:32:49.338622+07:00",
   "total": 30,
   "articles": [
+    {
+      "source": "Tin tuc",
+      "title": "FPTU đồng hành HITC Hub, tăng cơ hội thương mại hóa ý tưởng cho sinh viên",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/fptu-dong-hanh-hitc-hub-tang-co-hoi-thuong-mai-hoa-y-tuong-cho-sinh-vien/",
+      "created": "15/05/2026 17:30",
+      "created_ts": 1778841057.0,
+      "summary": "Sáng 15/5 tại Hà Nội, Trung tâm Ươm tạo và Đào tạo Công nghệ cao (HITC) tổ chức “Lễ kết nối mạng lưới và khởi động Không gian Đổi mới sáng tạo HITC Hub”. Tại đây, sinh viên FPTU &#8211; các “nhà sáng lập trẻ” cũng trực tiếp mang các dự án startup đến trưng [&#8230;]"
+    },
     {
       "source": "Tin tuc",
       "title": "Trường Đại học FPT ở đâu? Danh sách các cơ sở trên toàn quốc",
@@ -73,14 +81,6 @@
       "created": "15/05/2026 09:12",
       "created_ts": 1778811127.0,
       "summary": "Nhân dịp kỷ niệm 20 năm thành lập Trường Đại học FPT (2006 &#8211; 2026), Music Album “Vươn Mình Cùng Đất Nước” chính thức được giới thiệu với sự tham gia thực hiện của 50 sinh viên và cựu sinh viên đến từ cả 5 cơ sở trên toàn quốc. Gồm 6 bài mang màu [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Điểm ưu tiên là gì? Cách tính điểm ưu tiên 2026",
-      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/diem-uu-tien-la-gi/",
-      "created": "15/05/2026 08:55",
-      "created_ts": 1778810130.0,
-      "summary": "Kỳ thi tốt nghiệp THPT đang đến gần, và điểm ưu tiên là một chủ đề quan trọng mà nhiều thí sinh thắc mắc. Vậy điểm ưu tiên là gì? Ai được hưởng điểm ưu tiên? Và cách tính điểm ưu tiên như thế nào? Trong bài viết này, Trường Đại học FPT sẽ cung [&#8230;]"
     },
     {
       "source": "Tuyen sinh",
