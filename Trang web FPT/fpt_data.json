@@ -1,7 +1,31 @@
 {
-  "crawled_at": "2026-05-22T10:46:33.789895+07:00",
+  "crawled_at": "2026-05-23T10:23:07.008871+07:00",
   "total": 30,
   "articles": [
+    {
+      "source": "Tin tuc",
+      "title": "Khi AI viết lại bản đồ ngành kinh tế: Trường đại học FPTU đào tạo gì cho thế hệ nhân lực số mới?",
+      "link": "https://daihoc.fpt.edu.vn/bao-chi-noi-ve-fptu/khi-ai-viet-lai-ban-do-nganh-kinh-te-truong-dai-hoc-fptu-dao-tao-gi-cho-the-he-nhan-luc-so-moi/",
+      "created": "22/05/2026 14:54",
+      "created_ts": 1779436495.0,
+      "summary": "Trong kỷ nguyên số, AI có thể viết content, phân tích hành vi khách hàng hay dự báo tài chính chỉ trong vài giây. Khi công nghệ đang tái định hình cách doanh nghiệp vận hành, bản đồ ngành nghề của lĩnh vực kinh tế cũng đang được vẽ lại và thế hệ tuyển sinh [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Thi Tốt nghiệp THPT 2026: Cách đánh giá năng lực cá nhân trong giai đoạn nước rút",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-da-nang/thi-tot-nghiep-thpt-2026-cach-danh-gia-nang-luc-ca-nhan-trong-giai-doan-nuoc-rut/",
+      "created": "22/05/2026 14:52",
+      "created_ts": 1779436341.0,
+      "summary": "Chỉ còn chưa đầy 20 ngày trước kỳ thi Tốt nghiệp THPT 2026, áp lực ôn tập đang tăng dần khi thời gian ngày càng rút ngắn. Tuy nhiên, ở giai đoạn này, việc học nhiều chưa chắc đã hiệu quả bằng việc hiểu rõ năng lực hiện tại của bản thân và xây dựng [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Đại học FPT mở ngành Robot và AI đón đầu thị trường lương trăm triệu",
+      "link": "https://daihoc.fpt.edu.vn/bao-chi-noi-ve-fptu/dai-hoc-fpt-mo-nganh-robot-va-ai-don-dau-thi-truong-luong-tram-trieu/",
+      "created": "22/05/2026 13:38",
+      "created_ts": 1779431884.0,
+      "summary": "Trường Đại học FPT vừa mở chuyên ngành Robot và Trí tuệ nhân tạo (Định hướng UAV và Humanoid), lĩnh vực đang có nhu cầu nhân lực cao với mức thu nhập hấp dẫn. Chuyên ngành Robot và Trí tuệ nhân tạo (Định hướng UAV và Humanoid) được xây dựng được thiết kế theo mô [&#8230;]"
+    },
     {
       "source": "Tin tuc",
       "title": "Khối ngành Ngôn ngữ FPTU đạt chuẩn kiểm định quốc tế châu Âu AQAS",
@@ -57,30 +81,6 @@
       "created": "21/05/2026 15:34",
       "created_ts": 1779352455.0,
       "summary": "Điểm nổi bật của chuyên ngành này là định hướng đào tạo theo công nghệ tiên tiến, trong đó có máy bay không người lái và robot hình người. Trong bối cảnh trí tuệ nhân tạo (AI) và robotics đang trở thành trụ cột của cuộc cách mạng công nghiệp mới, năm 2026, trường Đại [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Mở chuyên ngành mới đón đầu làn sóng Robot và Trí tuệ nhân tạo",
-      "link": "https://daihoc.fpt.edu.vn/bao-chi-noi-ve-fptu/mo-chuyen-nganh-moi-don-dau-lan-song-robot-va-tri-tue-nhan-tao/",
-      "created": "21/05/2026 15:26",
-      "created_ts": 1779351994.0,
-      "summary": "VTV.vn &#8211; Nhu cầu nhân lực chất lượng cao trong lĩnh vực trí tuệ nhân tạo (AI) và robotics đang tăng trưởng đột biến. Trong bối cảnh trí tuệ nhân tạo (AI) và robotics đang trở thành trụ cột của cuộc cách mạng công nghiệp mới, nhu cầu nhân lực chất lượng cao trong lĩnh [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Sinh viên FPTU ra quân hỗ trợ chuyển đổi số tại xã Vân Đình (Hà Nội)",
-      "link": "https://daihoc.fpt.edu.vn/tin-tuc/sinh-vien-fptu-ra-quan-ho-tro-chuyen-doi-so-tai-xa-van-dinh-ha-noi/",
-      "created": "21/05/2026 15:21",
-      "created_ts": 1779351684.0,
-      "summary": "Sáng 21/5, 43 sinh viên Trường Đại học FPT chính thức ra quân hỗ trợ chuyển đổi số tại xã Vân Đình, tham gia các hoạt động hỗ trợ người dân, trường học và các cơ quan hành chính tại địa phương tiếp cận công nghệ số, dịch vụ công trực tuyến và ứng dụng [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Tuyển sinh 2026: Trường Đại học FPT mở thêm chuyên ngành gắn với robot",
-      "link": "https://daihoc.fpt.edu.vn/bao-chi-noi-ve-fptu/tuyen-sinh-2026-truong-dai-hoc-fpt-mo-them-chuyen-nganh-gan-voi-robot/",
-      "created": "21/05/2026 15:07",
-      "created_ts": 1779350866.0,
-      "summary": "Mùa tuyển sinh 2026, Trường Đại học FPT chính thức mở chuyên ngành Robot và Trí tuệ nhân tạo (Định hướng UAV và Humanoid). Trong bối cảnh trí tuệ nhân tạo (AI) và robotics đang trở thành trụ cột của cuộc cách mạng công nghiệp mới, năm 2026, Trường Đại học FPT chính thức mở chuyên ngành [&#8230;]"
     },
     {
       "source": "Tuyen sinh",
