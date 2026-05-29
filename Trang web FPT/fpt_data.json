@@ -1,7 +1,31 @@
 {
-  "crawled_at": "2026-05-28T10:42:50.156450+07:00",
+  "crawled_at": "2026-05-29T10:42:47.848115+07:00",
   "total": 30,
   "articles": [
+    {
+      "source": "Tin tuc",
+      "title": "Khép lại tuần lễ bảo vệ khóa luận tốt nghiệp kỳ Spring 2026: Sinh viên FPT sẵn sàng bước vào thị trường lao động toàn cầu",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-camus-quy-nhon/khep-lai-tuan-le-bao-ve-khoa-luan-tot-nghiep-ky-spring-2026-sinh-vien-fpt-san-sang-buoc-vao-thi-truong-lao-dong-toan-cau/",
+      "created": "29/05/2026 08:51",
+      "created_ts": 1780019497.0,
+      "summary": "Tuần lễ bảo vệ khóa luận tốt nghiệp kỳ Spring 2026 của sinh viên Trường Đại học FPT đã chính thức khép lại, đánh dấu cột mốc trưởng thành sau hành trình học tập, nghiên cứu và phát triển năng lực nghề nghiệp của sinh viên ở nhiều lĩnh vực. Khép lại tuần lễ bảo [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "WORKSHOP “END-TO-END RESEARCH: FROM QUESTION TO PUBLICATION”",
+      "link": "https://daihoc.fpt.edu.vn/trai-nghiem-sinh-vien/workshop-end-to-end-research-from-question-to-publication/",
+      "created": "29/05/2026 08:34",
+      "created_ts": 1780018457.0,
+      "summary": "WORKSHOP “END-TO-END RESEARCH: FROM QUESTION TO PUBLICATION” ĐÃ DIỄN RA THÀNH CÔNG!  Ngày 16/05/2026 vừa qua, Phòng Công tác sinh viên phối hợp cùng Bộ môn CF tổ chức Workshop “End-to-End Research: From Question to Publication” với sự tham gia 200 sinh viên quan tâm đến nghiên cứu khoa học, năng lực AI cần thiết [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Kỳ thi IELTS chính thức được tổ chức lần đầu tiên tại Trường Đại học FPT Quy Nhơn",
+      "link": "https://daihoc.fpt.edu.vn/chua-phan-loai/ky-thi-ielts-chinh-thuc-duoc-to-chuc-lan-dau-tien-tai-truong-dai-hoc-fpt-quy-nhon/",
+      "created": "29/05/2026 08:30",
+      "created_ts": 1780018206.0,
+      "summary": "Tin vui dành cho các bạn sinh viên và học viên tại Quy Nhơn — nay đã có IDP tại Trường Đại học FPT Quy Nhơn, không cần phải đi đâu xa vẫn có thể đăng ký và tham gia kỳ thi IELTS chính thức thuận tiện hơn bao giờ hết Cơ hội nhận ưu [&#8230;]"
+    },
     {
       "source": "Tin tuc",
       "title": "Kỷ nguyên “kinh tế cảm xúc”: Khi trải nghiệm khách hàng trở thành nghề nghiệp quyền lực của thời đại số",
@@ -57,30 +81,6 @@
       "created": "26/05/2026 15:15",
       "created_ts": 1779783313.0,
       "summary": "Truyền thông đa phương tiện là ngành học mở ra nhiều cơ hội dành cho các bạn đam mê sáng tạo, thích làm chủ công nghệ và muốn dấn thân vào thế giới nội dung số đầy biến động. Để giúp bạn dễ dàng lựa chọn môi trường học tập phù hợp, bài viết này [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Đại học FPT vừa mở chuyên ngành ‘chưa tốt nghiệp đã được doanh nghiệp săn đón’, tân binh cũng nhận lương 18-30 triệu đồng/tháng",
-      "link": "https://daihoc.fpt.edu.vn/bao-chi-noi-ve-fptu/dai-hoc-fpt-vua-mo-chuyen-nganh-chua-tot-nghiep-da-duoc-doanh-nghiep-san-don-tan-binh-cung-nhan-luong-18-30-trieu-dong-thang/",
-      "created": "26/05/2026 10:52",
-      "created_ts": 1779767545.0,
-      "summary": "Đây được xem là bước đi nhằm đón đầu nhu cầu nhân lực công nghệ cao trong kỷ nguyên công nghiệp số. Trong bối cảnh trí tuệ nhân tạo (AI), robot và tự động hóa trở thành những lĩnh vực tăng trưởng nhanh trên toàn cầu, Đại học FPT vừa công bố mở chuyên ngành [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Cuộc đua nhân lực thời AI: Những chuyên ngành công nghệ đang được săn đón nhất",
-      "link": "https://daihoc.fpt.edu.vn/bao-chi-noi-ve-fptu/cuoc-dua-nhan-luc-thoi-ai-nhung-chuyen-nganh-cong-nghe-dang-duoc-san-don-nhat/",
-      "created": "26/05/2026 10:10",
-      "created_ts": 1779765023.0,
-      "summary": "AI đã biết code, biết vẽ, biết viết, thậm chí có thể thay con người xử lý hàng loạt tác vụ chỉ trong vài giây. Vậy học Công nghệ thông tin bây giờ để làm gì? Câu trả lời không nằm ở việc &#8220;cạnh tranh với AI&#8221;, mà ở việc trở thành những người tạo [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "FPTU Pickleball Club: Khi đam mê thể thao tạo nên môi trường phát triển toàn diện cho sinh viên Trường Đại học FPT cơ sở Hà Nội",
-      "link": "https://daihoc.fpt.edu.vn/doi-song-sinh-vien-fptuhn/fptu-pickleball-club-khi-dam-me-the-thao-tao-nen-moi-truong-phat-trien-toan-dien-cho-sinh-vien-truong-dai-hoc-fpt-co-so-ha-noi/",
-      "created": "26/05/2026 09:22",
-      "created_ts": 1779762156.0,
-      "summary": "Được thành lập năm 2024, FPTU Pickleball Club là câu lạc bộ thể thao trực thuộc Trường Đại học FPT cơ sở Hà Nội. CLB xây dựng môi trường để sinh viên yêu thích pickleball không chỉ được luyện tập và thi đấu, mà còn có cơ hội tham gia vận hành sự kiện, phối [&#8230;]"
     },
     {
       "source": "Tuyen sinh",
