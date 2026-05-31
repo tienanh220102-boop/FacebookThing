@@ -1,7 +1,15 @@
 {
-  "crawled_at": "2026-05-30T10:31:37.080115+07:00",
+  "crawled_at": "2026-05-31T10:58:01.755890+07:00",
   "total": 30,
   "articles": [
+    {
+      "source": "Tin tuc",
+      "title": "Phụ huynh, học sinh tìm lời giải cho bài toán chọn ngành, chọn nghề, chọn trường tại hội thảo hướng nghiệp của Trường Đại học FPT",
+      "link": "https://daihoc.fpt.edu.vn/thong-bao-tuyen-sinh/phu-huynh-hoc-sinh-tim-loi-giai-cho-bai-toan-chon-nganh-chon-nghe-chon-truong-tai-hoi-thao-huong-nghiep-cua-truong-dai-hoc-fpt/",
+      "created": "30/05/2026 20:49",
+      "created_ts": 1780148996.0,
+      "summary": "Trong bối cảnh chỉ còn chưa đầy hai tuần trước Kỳ thi Tốt nghiệp THPT 2026, hàng trăm phụ huynh và học sinh đã tham dự hội thảo “Cùng Trường Đại học FPT kiến tạo tương lai” diễn ra sáng 30/5 tại Trường Đại học FPT cơ sở TP.HCM, để trực tiếp tìm hiểu chương [&#8230;]"
+    },
     {
       "source": "Tin tuc",
       "title": "Khép lại tuần lễ bảo vệ khóa luận tốt nghiệp kỳ Spring 2026: Sinh viên FPT sẵn sàng bước vào thị trường lao động toàn cầu",
@@ -75,12 +83,12 @@
       "summary": "Được thành lập năm 2020, FPTU Data Science Club — FDS — là câu lạc bộ chuyên môn trực thuộc Trường Đại học FPT cơ sở Hà Nội, quy tụ những sinh viên có niềm yêu thích với Trí tuệ nhân tạo — AI — và Khoa học Dữ liệu — Data Science. Không chỉ [&#8230;]"
     },
     {
-      "source": "Tin tuc",
-      "title": "TOP 5 trường đào tạo ngành Truyền thông đa phương tiện Hà Nội",
-      "link": "https://daihoc.fpt.edu.vn/huong-nghiep/dao-tao-truyen-thong-da-phuong-tien-ha-noi/",
-      "created": "26/05/2026 15:15",
-      "created_ts": 1779783313.0,
-      "summary": "Truyền thông đa phương tiện là ngành học mở ra nhiều cơ hội dành cho các bạn đam mê sáng tạo, thích làm chủ công nghệ và muốn dấn thân vào thế giới nội dung số đầy biến động. Để giúp bạn dễ dàng lựa chọn môi trường học tập phù hợp, bài viết này [&#8230;]"
+      "source": "Tuyen sinh",
+      "title": "Phụ huynh, học sinh tìm lời giải cho bài toán chọn ngành, chọn nghề, chọn trường tại hội thảo hướng nghiệp của Trường Đại học FPT",
+      "link": "https://daihoc.fpt.edu.vn/thong-bao-tuyen-sinh/phu-huynh-hoc-sinh-tim-loi-giai-cho-bai-toan-chon-nganh-chon-nghe-chon-truong-tai-hoi-thao-huong-nghiep-cua-truong-dai-hoc-fpt/",
+      "created": "30/05/2026 20:49",
+      "created_ts": 1780148996.0,
+      "summary": "Trong bối cảnh chỉ còn chưa đầy hai tuần trước Kỳ thi Tốt nghiệp THPT 2026, hàng trăm phụ huynh và học sinh đã tham dự hội thảo “Cùng Trường Đại học FPT kiến tạo tương lai” diễn ra sáng 30/5 tại Trường Đại học FPT cơ sở TP.HCM, để trực tiếp tìm hiểu chương [&#8230;]"
     },
     {
       "source": "Tuyen sinh",
@@ -153,14 +161,6 @@
       "created": "04/02/2026 10:54",
       "created_ts": 1770177242.0,
       "summary": "Kỷ nguyên AI, thị trường lao động thay đổi nhanh hơn chu kỳ đào tạo đại học, sinh viên ra trường không chỉ cần kiến thức chuyên môn. Quan trọng hơn là tư duy công nghệ để thích ứng, năng lực tự tạo giá trị và khả năng làm việc toàn cầu &#8211; những yêu [&#8230;]"
-    },
-    {
-      "source": "Tuyen sinh",
-      "title": "Hướng dẫn giới thiệu ứng viên chương trình Tìm kiếm Nhân tài Kỷ nguyên số Việt Nam",
-      "link": "https://daihoc.fpt.edu.vn/tin-tuc/huong-dan-gioi-thieu-ung-vien-chuong-trinh-tim-kiem-nhan-tai-ky-nguyen-so-viet-nam/",
-      "created": "02/02/2026 16:48",
-      "created_ts": 1770025719.0,
-      "summary": "Giới thiệu ứng viên Học bổng dành cho thầy cô giáo, Ban Giám hiệu các trường THPT và các tổ chức giáo dục nhằm giới thiệu và đề cử những ứng viên đáp ứng đầy đủ tiêu chí của chương trình học bổng, là các học sinh có thành tích học tập xuất sắc hoặc [&#8230;]"
     },
     {
       "source": "Su kien",
