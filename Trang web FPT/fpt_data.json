@@ -1,7 +1,79 @@
 {
-  "crawled_at": "2026-05-31T10:58:01.755890+07:00",
+  "crawled_at": "2026-06-01T11:11:56.195846+07:00",
   "total": 30,
   "articles": [
+    {
+      "source": "Tin tuc",
+      "title": "Sinh Viên Trường Đại Học FPT Mang Tri Thức, Công Nghệ Và Trách Nhiệm Toàn Diện Đến Cộng Đồng",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/trach-nhiem-toan-dien/",
+      "created": "01/06/2026 00:38",
+      "created_ts": 1780249114.0,
+      "summary": "Trách nhiệm toàn diện được sinh viên Trường Đại học FPT lan tỏa qua các hoạt động công nghệ, văn hóa, môi trường và dự án cộng đồng ý nghĩa. Trách nhiệm toàn diện không chỉ là một giá trị cốt lõi trong định hướng giáo dục của Trường Đại học FPT mà còn được [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh Viên Trường Đại Học FPT Mang Giải Pháp Y Tế Ứng Dụng Công Nghệ Vươn Ra Quốc Tế",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/giai-phap-y-te-ung-dung-cong-nghe/",
+      "created": "01/06/2026 00:28",
+      "created_ts": 1780248518.0,
+      "summary": "Giải pháp y tế ứng dụng công nghệ OrcaX của sinh viên Trường Đại học FPT góp phần hỗ trợ chăm sóc sức khỏe mắt và ghi dấu ấn tại Campuchia. Giải pháp y tế ứng dụng công nghệ đang trở thành xu hướng quan trọng trong quá trình chuyển đổi số ngành y tế [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Trường Đại Học FPT Tổ Chức Workshop Tập Huấn Khai Thác Thông Tin Sáng Chế Trong Lĩnh Vực Công Nghệ Thông Tin",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/khai-thac-thong-tin-sang-che/",
+      "created": "01/06/2026 00:19",
+      "created_ts": 1780247945.0,
+      "summary": "Thông tin sáng chế là nội dung trọng tâm của workshop tại Trường Đại học FPT, giúp nâng cao năng lực nghiên cứu và phát triển công nghệ. Thông tin sáng chế đang trở thành nguồn tài nguyên quan trọng trong hoạt động nghiên cứu, đổi mới sáng tạo và phát triển công nghệ. Nhằm [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Dự Án Môn Học Đầy Tính Nhân Văn “Legacy Portraits” – Kết Nối Thế Hệ, Lan Tỏa Yêu Thương",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/legacy-portraits-ket-noi-the-he/",
+      "created": "01/06/2026 00:09",
+      "created_ts": 1780247382.0,
+      "summary": "Legacy Portraits là dự án nhân văn của sinh viên Đại học FPT, kết nối thế hệ, lưu giữ ký ức và lan tỏa yêu thương đến người cao tuổi neo đơn. Giữa nhịp sống hiện đại ngày càng hối hả, vẫn còn nhiều người cao tuổi đang sống trong hoàn cảnh neo đơn, thiếu [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh Viên Ngành Ngôn Ngữ Hàn Trải Nghiệm Thông Dịch Thực Tế Tại Bảo Tàng TP Cần Thơ",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/thong-dich-thuc-te/",
+      "created": "01/06/2026 00:01",
+      "created_ts": 1780246865.0,
+      "summary": "Thông dịch thực tế tại Bảo tàng TP Cần Thơ giúp sinh viên ngành Ngôn ngữ Hàn Trường Đại học FPT nâng cao kỹ năng nghề nghiệp và hội nhập quốc tế. Thông dịch thực tế là một trong những hoạt động quan trọng giúp sinh viên ngành ngôn ngữ phát triển kỹ năng nghề [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Cóc Vàng Khối Ngành Kinh Tế Trường Đại Học FPT: Nguyễn Vân Long Và Hành Trình “Phá Kén”",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/coc-vang-khoi-nganh-kinh-te/",
+      "created": "31/05/2026 23:52",
+      "created_ts": 1780246348.0,
+      "summary": "Cóc Vàng khối ngành Kinh tế là cột mốc đáng nhớ trên hành trình “phá kén” của Nguyễn Vân Long, sinh viên Digital Marketing tại Đại học FPT. Danh hiệu Cóc Vàng khối ngành Kinh tế không chỉ là sự ghi nhận cho thành tích học tập xuất sắc mà còn phản ánh hành trình [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Cóc Vàng Công Nghệ Thông Tin Trường Đại Học FPT – Hành Trình Biến Áp Lực Thành Động Lực Trong Kỷ Nguyên Công Nghệ",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/coc-vang-cong-nghe-thong-tin/",
+      "created": "31/05/2026 23:43",
+      "created_ts": 1780245809.0,
+      "summary": "Cóc Vàng Công nghệ Thông tin là dấu mốc ấn tượng của Bùi Đức Anh, sinh viên Trí tuệ nhân tạo Trường Đại học FPT với GPA 9.44 đầy thuyết phục. Danh hiệu Cóc Vàng Công nghệ Thông tin luôn là mục tiêu mà nhiều sinh viên Trường Đại học FPT hướng tới. Không chỉ [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "CLB F-AI Của Trường Đại Học FPT Campus Cần Thơ Ghi Dấu Ấn Công Nghệ Tại Cuộc Thi Data For Life",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/data-for-life-2025/",
+      "created": "31/05/2026 23:33",
+      "created_ts": 1780245185.0,
+      "summary": "Data for Life 2025 ghi nhận dấu ấn của CLB F-AI Trường Đại học FPT Cần Thơ với dự án ứng dụng AI xác thực văn bằng, phục vụ cộng đồng. Data for Life 2025 là một trong những cuộc thi công nghệ nổi bật nhất năm, quy tụ hàng nghìn thí sinh và các [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Nữ Sinh Ngành Ngôn Ngữ Trung Quốc Và Câu Chuyện Nỗ Lực Vượt Qua Giới Hạn Để Chinh Phục Danh Hiệu Cóc Vàng",
+      "link": "https://daihoc.fpt.edu.vn/humans-of-fptu/coc-vang-nganh-ngon-ngu/",
+      "created": "31/05/2026 21:33",
+      "created_ts": 1780237995.0,
+      "summary": "Cóc Vàng là thành quả xứng đáng cho hành trình nỗ lực không ngừng của nữ sinh ngành Ngôn ngữ Trung Quốc Đặng Nguyễn Ngọc Trân tại Đại học FPT. Tại Trường Đại học FPT, danh hiệu Cóc Vàng không chỉ là sự ghi nhận dành cho những sinh viên có thành tích học tập [&#8230;]"
+    },
     {
       "source": "Tin tuc",
       "title": "Phụ huynh, học sinh tìm lời giải cho bài toán chọn ngành, chọn nghề, chọn trường tại hội thảo hướng nghiệp của Trường Đại học FPT",
@@ -9,78 +81,6 @@
       "created": "30/05/2026 20:49",
       "created_ts": 1780148996.0,
       "summary": "Trong bối cảnh chỉ còn chưa đầy hai tuần trước Kỳ thi Tốt nghiệp THPT 2026, hàng trăm phụ huynh và học sinh đã tham dự hội thảo “Cùng Trường Đại học FPT kiến tạo tương lai” diễn ra sáng 30/5 tại Trường Đại học FPT cơ sở TP.HCM, để trực tiếp tìm hiểu chương [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Khép lại tuần lễ bảo vệ khóa luận tốt nghiệp kỳ Spring 2026: Sinh viên FPT sẵn sàng bước vào thị trường lao động toàn cầu",
-      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-camus-quy-nhon/khep-lai-tuan-le-bao-ve-khoa-luan-tot-nghiep-ky-spring-2026-sinh-vien-fpt-san-sang-buoc-vao-thi-truong-lao-dong-toan-cau/",
-      "created": "29/05/2026 08:51",
-      "created_ts": 1780019497.0,
-      "summary": "Tuần lễ bảo vệ khóa luận tốt nghiệp kỳ Spring 2026 của sinh viên Trường Đại học FPT đã chính thức khép lại, đánh dấu cột mốc trưởng thành sau hành trình học tập, nghiên cứu và phát triển năng lực nghề nghiệp của sinh viên ở nhiều lĩnh vực. Khép lại tuần lễ bảo [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "WORKSHOP “END-TO-END RESEARCH: FROM QUESTION TO PUBLICATION”",
-      "link": "https://daihoc.fpt.edu.vn/trai-nghiem-sinh-vien/workshop-end-to-end-research-from-question-to-publication/",
-      "created": "29/05/2026 08:34",
-      "created_ts": 1780018457.0,
-      "summary": "WORKSHOP “END-TO-END RESEARCH: FROM QUESTION TO PUBLICATION” ĐÃ DIỄN RA THÀNH CÔNG!  Ngày 16/05/2026 vừa qua, Phòng Công tác sinh viên phối hợp cùng Bộ môn CF tổ chức Workshop “End-to-End Research: From Question to Publication” với sự tham gia 200 sinh viên quan tâm đến nghiên cứu khoa học, năng lực AI cần thiết [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Kỳ thi IELTS chính thức được tổ chức lần đầu tiên tại Trường Đại học FPT Quy Nhơn",
-      "link": "https://daihoc.fpt.edu.vn/chua-phan-loai/ky-thi-ielts-chinh-thuc-duoc-to-chuc-lan-dau-tien-tai-truong-dai-hoc-fpt-quy-nhon/",
-      "created": "29/05/2026 08:30",
-      "created_ts": 1780018206.0,
-      "summary": "Tin vui dành cho các bạn sinh viên và học viên tại Quy Nhơn — nay đã có IDP tại Trường Đại học FPT Quy Nhơn, không cần phải đi đâu xa vẫn có thể đăng ký và tham gia kỳ thi IELTS chính thức thuận tiện hơn bao giờ hết Cơ hội nhận ưu [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Kỷ nguyên “kinh tế cảm xúc”: Khi trải nghiệm khách hàng trở thành nghề nghiệp quyền lực của thời đại số",
-      "link": "https://daihoc.fpt.edu.vn/bao-chi-noi-ve-fptu/ky-nguyen-kinh-te-cam-xuc-khi-trai-nghiem-khach-hang-tro-thanh-nghe-nghiep-quyen-luc-cua-thoi-dai-so/",
-      "created": "28/05/2026 10:33",
-      "created_ts": 1779939181.0,
-      "summary": "Trong cuộc đua sinh tồn của kinh tế số, doanh nghiệp không còn cạnh tranh bằng giá hay sản phẩm. Họ cạnh tranh bằng cảm xúc. Và người biến cảm xúc thành chiến lược &#8211; đó chính là chuyên gia Quản trị Trải nghiệm Khách hàng. Cuộc chiến mới của kinh doanh hiện đại Hãy [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Sinh viên FPTU dùng AI “đánh thức” di sản Việt bằng mô hình tương tác",
-      "link": "https://daihoc.fpt.edu.vn/tin-tuc/sinh-vien-fptu-dung-ai-danh-thuc-di-san-viet-bang-mo-hinh-tuong-tac/",
-      "created": "27/05/2026 11:02",
-      "created_ts": 1779854542.0,
-      "summary": "Từ những làn điệu quan họ, hát Xoan hay Xòe Thái, nhóm sinh viên Digital Marketing Trường Đại học FPT đã tạo nên “Dáng hình di sản”, dự án kết hợp mô hình 3D, AI và trải nghiệm tương tác để đưa văn hoá truyền thống đến gần hơn với thế hệ trẻ. “Dáng hình [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "FPTU Chess Club: Nơi sinh viên Trường Đại học FPT rèn luyện tư duy chiến lược và phát triển toàn diện qua từng hoạt động",
-      "link": "https://daihoc.fpt.edu.vn/doi-song-sinh-vien-fptuhn/fptu-chess-club-noi-sinh-vien-truong-dai-hoc-fpt-ren-luyen-tu-duy-chien-luoc-va-phat-trien-toan-dien-qua-tung-hoat-dong/",
-      "created": "27/05/2026 09:38",
-      "created_ts": 1779849523.0,
-      "summary": "FPTU Chess Club được thành lập năm 2012, trực thuộc Trường Đại học FPT Hà Nội, với mục tiêu xây dựng môi trường sinh hoạt dành cho sinh viên yêu thích cờ vua, cờ tướng, cờ caro và các hình thức tư duy chiến thuật liên quan. Tại đây, sinh viên có cơ hội giao [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "FPTU English Club: Không gian rèn luyện tiếng Anh cho sinh viên Trường Đại học FPT cơ sở Hà Nội",
-      "link": "https://daihoc.fpt.edu.vn/doi-song-sinh-vien-fptuhn/fptu-english-club-khong-gian-ren-luyen-tieng-anh-cho-sinh-vien-truong-dai-hoc-fpt-co-so-ha-noi/",
-      "created": "27/05/2026 09:32",
-      "created_ts": 1779849146.0,
-      "summary": "Tiếng Anh là kỹ năng cần được luyện tập thường xuyên, không chỉ qua giáo trình mà còn qua giao tiếp, làm việc nhóm và các tình huống thực tế. Với sinh viên đại học, một môi trường đủ cởi mở để thực hành mỗi ngày sẽ giúp việc học ngôn ngữ trở nên tự [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Khi dữ liệu trở thành quyền lực: Thế hệ chuyên gia mới đang được đào tạo như thế nào?",
-      "link": "https://daihoc.fpt.edu.vn/bao-chi-noi-ve-fptu/khi-du-lieu-tro-thanh-quyen-luc-the-he-chuyen-gia-moi-dang-duoc-dao-tao-nhu-the-nao/",
-      "created": "27/05/2026 09:09",
-      "created_ts": 1779847774.0,
-      "summary": "Hơn một thập kỷ trước, khi nhắc đến nghề phân tích dữ liệu, không ít người vẫn hình dung đó là công việc quanh quẩn với những bảng Excel và những con số có phần khô cứng. Ngày nay, cách nhìn đó đã thay đổi đáng kể khi dữ liệu dần trở thành nền tảng [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "FPTU Data Science Club: Không gian học thuật và thực hành AI, Data Science cho sinh viên Trường Đại học FPT cơ sở Hà Nội",
-      "link": "https://daihoc.fpt.edu.vn/doi-song-sinh-vien-fptuhn/fptu-data-science-club-khong-gian-hoc-thuat-va-thuc-hanh-ai-data-science-cho-sinh-vien-truong-dai-hoc-fpt-co-so-ha-noi/",
-      "created": "26/05/2026 16:11",
-      "created_ts": 1779786704.0,
-      "summary": "Được thành lập năm 2020, FPTU Data Science Club — FDS — là câu lạc bộ chuyên môn trực thuộc Trường Đại học FPT cơ sở Hà Nội, quy tụ những sinh viên có niềm yêu thích với Trí tuệ nhân tạo — AI — và Khoa học Dữ liệu — Data Science. Không chỉ [&#8230;]"
     },
     {
       "source": "Tuyen sinh",
