@@ -72,16 +72,67 @@ def fetch_feed(name, url, since_ts=None):
 
     return items
 
+# ── Helper ────────────────────────────────────────────────────
+CAMPUS_MAP = [
+    (['hà nội', 'ha noi', 'hanoi', 'hòa lạc', 'hoa lac'], 'Hà Nội'),
+    (['tp.hcm', 'tphcm', 'tp hcm', 'hồ chí minh', 'ho chi minh'], 'TP.HCM'),
+    (['cần thơ', 'can tho'], 'Cần Thơ'),
+    (['đà nẵng', 'da nang'], 'Đà Nẵng'),
+    (['quy nhơn', 'quy nhon'], 'Quy Nhơn'),
+]
+
+def extract_campus(title, summary):
+    text = (title + ' ' + summary).lower()
+    found = [label for keywords, label in CAMPUS_MAP if any(k in text for k in keywords)]
+    return ', '.join(found) if found else ''
+
+COLS = [
+    'STT', 'TÊN HOẠT ĐỘNG', 'Loại sự kiện', 'NGÀY ĐĂNG', 'CAMPUS',
+    'NGƯỜI/ ĐƠN VỊ, CƠ SỞ THỰC HIỆN',
+    'ĐỐI TƯỢNG\n(Sinh viên, Giảng viên, Cán bộ, HS-GV bên ngoài,\nDoanh nghiệp, Cộng đồng, Người dân, Tổ chức, ...)',
+    'NỘI DUNG HOẠT ĐỘNG', 'LINK ĐÃ ĐĂNG TIN',
+]
+
+COL_WIDTHS = {
+    'A': 6,   # STT
+    'B': 50,  # TEN HOAT DONG
+    'C': 14,  # Loai su kien
+    'D': 14,  # KY/NAM
+    'E': 14,  # CAMPUS
+    'F': 25,  # NGUOI/DON VI
+    'G': 30,  # DOI TUONG
+    'H': 60,  # NOI DUNG
+    'I': 45,  # LINK
+}
+
+def _row(a, stt):
+    return [
+        stt,
+        a['title'],
+        a['source'],
+        a['created'],
+        extract_campus(a['title'], a['summary']),
+        '',  # NGUOI/DON VI — dien tay
+        '',  # DOI TUONG    — dien tay
+        a['summary'],
+        a['link'],
+    ]
+
 # ── Xuat Excel ────────────────────────────────────────────────
 HDR_FILL = PatternFill(start_color='E85B2A', end_color='E85B2A', fill_type='solid')
 HDR_FONT = Font(bold=True, color='FFFFFF')
 TOP_FILL = PatternFill(start_color='FFF3CD', end_color='FFF3CD', fill_type='solid')
 CTR      = Alignment(horizontal='center', vertical='center', wrap_text=True)
+LEFT_WRAP = Alignment(horizontal='left', vertical='top', wrap_text=True)
 
 def _header(ws, cols):
     ws.append(cols)
     for cell in ws[ws.max_row]:
         cell.font = HDR_FONT; cell.fill = HDR_FILL; cell.alignment = CTR
+
+def _set_widths(ws):
+    for col_letter, width in COL_WIDTHS.items():
+        ws.column_dimensions[col_letter].width = width
 
 def _autowidth(ws, max_w=60):
     for col in ws.columns:
@@ -89,13 +140,14 @@ def _autowidth(ws, max_w=60):
         ws.column_dimensions[col[0].column_letter].width = min(w + 3, max_w)
 
 def export_excel(all_articles, filename):
-    """Tao file Excel 3 sheet: Tong quan / Tat ca bai / 20 bai moi nhat."""
+    """Tao file Excel 3 sheet: Tong quan / Tat ca hoat dong / 20 bai moi nhat."""
     wb = openpyxl.Workbook()
+    sorted_arts = sorted(all_articles, key=lambda x: x['created_ts'], reverse=True)
 
     # ── Sheet 1: Tong quan nguon ──────────────────────────────
     ws1 = wb.active
     ws1.title = 'Tong quan nguon'
-    _header(ws1, ['Nguon tin', 'So bai viet', 'Bai moi nhat'])
+    _header(ws1, ['Nguồn tin', 'Số bài viết', 'Bài mới nhất'])
     sources = {}
     for a in all_articles:
         sources.setdefault(a['source'], []).append(a)
@@ -104,27 +156,27 @@ def export_excel(all_articles, filename):
         ws1.append([src, len(arts), latest[0]['created'] if latest else ''])
     _autowidth(ws1)
 
-    # ── Sheet 2: Tat ca bai viet ──────────────────────────────
-    ws2 = wb.create_sheet('Tat ca bai viet')
-    _header(ws2, ['Nguon', 'Thoi gian', 'Tieu de', 'Tom tat', 'Link'])
-    ws2.column_dimensions['C'].width = 55
-    ws2.column_dimensions['D'].width = 60
-    for a in sorted(all_articles, key=lambda x: x['created_ts'], reverse=True):
-        ws2.append([a['source'], a['created'], a['title'], a['summary'], a['link']])
-    _autowidth(ws2)
+    # ── Sheet 2: Tat ca hoat dong ─────────────────────────────
+    ws2 = wb.create_sheet('Tất cả hoạt động')
+    _header(ws2, COLS)
+    ws2.row_dimensions[1].height = 45
+    _set_widths(ws2)
+    for i, a in enumerate(sorted_arts, 1):
+        ws2.append(_row(a, i))
+        for cell in ws2[ws2.max_row]:
+            cell.alignment = LEFT_WRAP
 
     # ── Sheet 3: 20 bai moi nhat ──────────────────────────────
-    ws3 = wb.create_sheet('20 bai moi nhat')
-    _header(ws3, ['STT', 'Nguon', 'Thoi gian', 'Tieu de', 'Tom tat', 'Link'])
-    ws3.column_dimensions['D'].width = 55
-    ws3.column_dimensions['E'].width = 60
-    top20 = sorted(all_articles, key=lambda x: x['created_ts'], reverse=True)[:20]
-    for i, a in enumerate(top20, 1):
-        ws3.append([i, a['source'], a['created'], a['title'], a['summary'], a['link']])
-        if i <= 3:
-            for cell in ws3[ws3.max_row]:
+    ws3 = wb.create_sheet('20 hoạt động mới nhất')
+    _header(ws3, COLS)
+    ws3.row_dimensions[1].height = 45
+    _set_widths(ws3)
+    for i, a in enumerate(sorted_arts[:20], 1):
+        ws3.append(_row(a, i))
+        for cell in ws3[ws3.max_row]:
+            cell.alignment = LEFT_WRAP
+            if i <= 3:
                 cell.fill = TOP_FILL
-    _autowidth(ws3)
 
     wb.save(filename)
     print(f'  Xuat thanh cong: {filename}')
