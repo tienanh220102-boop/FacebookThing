@@ -1,7 +1,15 @@
 {
-  "crawled_at": "2026-06-04T11:07:49.174471+07:00",
+  "crawled_at": "2026-06-05T10:53:51.781269+07:00",
   "total": 30,
   "articles": [
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên FPTU trở thành Chủ tọa trẻ tuổi nhất tại Hội thảo quốc tế ICTechED13",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/sinh-vien-fptu-tro-thanh-chu-toa-tre-tuoi-nhat-tai-hoi-thao-quoc-te-icteched13/",
+      "created": "04/06/2026 14:02",
+      "created_ts": 1780556538.0,
+      "summary": "Nguyễn Thành Trương &#8211; sinh viên K18 chuyên ngành Kỹ thuật Phần mềm Trường Đại học FPT đã trở thành Chủ tọa điều phối phiên báo cáo khoa học tại Hội thảo quốc tế ICTechED13, diễn ra tại Đại học Công nghệ King Mongkut (Thái Lan). Diễn ra ngày 28-29/5, Hội thảo khoa học quốc [&#8230;]"
+    },
     {
       "source": "Tin tuc",
       "title": "Giải HSG tỉnh có được cộng điểm ưu tiên không? Cập nhật quy định mới nhất 2026",
@@ -73,14 +81,6 @@
       "created": "02/06/2026 10:21",
       "created_ts": 1780370467.0,
       "summary": "Việc lựa chọn đúng môi trường đào tạo giúp sinh viên nắm vững kiến thức thiết kế, tư duy thẩm mỹ và kỹ năng sử dụng công cụ chuyên ngành, đồng thời mở ra nhiều cơ hội thực tập và việc làm tại các agency, studio và doanh nghiệp truyền thông lớn. Trong bài viết [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Nên học Ngôn ngữ Anh hay Marketing? Lựa chọn nào cho tương lai bền vững?",
-      "link": "https://daihoc.fpt.edu.vn/huong-nghiep/nen-hoc-ngon-ngu-anh-hay-marketing/",
-      "created": "02/06/2026 10:01",
-      "created_ts": 1780369279.0,
-      "summary": "Trước ngưỡng cửa đại học, việc chọn ngành luôn là bài toán cân não. Hai cái tên thường xuyên được đặt lên bàn cân là Ngôn ngữ Anh và Marketing. Một bên là công cụ giao tiếp toàn cầu, một bên là &#8220;nghề hái ra tiền&#8221; trong thời đại số. Vậy bạn nên học Ngôn [&#8230;]"
     },
     {
       "source": "Tuyen sinh",
