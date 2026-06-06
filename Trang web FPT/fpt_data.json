@@ -1,7 +1,31 @@
 {
-  "crawled_at": "2026-06-05T10:53:51.781269+07:00",
+  "crawled_at": "2026-06-06T10:35:59.425522+07:00",
   "total": 30,
   "articles": [
+    {
+      "source": "Tin tuc",
+      "title": "Thông báo về nhu cầu bổ nhiệm chức danh Phó Giáo sư năm 2026 đợt 1",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/thong-bao-ve-nhu-cau-bo-nhiem-chuc-danh-pho-giao-su-nam-2026-dot-1/",
+      "created": "06/06/2026 07:22",
+      "created_ts": 1780705338.0,
+      "summary": "Căn cứ Quyết định số 37/2018/QĐ-TTg ngày 31 tháng 8 năm 2018 của Thủ tướng Chính phủ ban hành quy định tiêu chuẩn, thủ tục xét công nhận đạt tiêu chuẩn và bổ nhiệm chức danh Giáo sư, Phó Giáo sư; thủ tục xét hủy bỏ công nhận chức danh và miễn nhiệm chức danh [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Khai trương phòng thi IELTS trên máy tính tại Trường Đại học FPT cơ sở Quy Nhơn",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/khai-truong-phong-thi-ielts-tren-may-tinh-tai-truong-dai-hoc-fpt-co-so-quy-nhon/",
+      "created": "05/06/2026 13:00",
+      "created_ts": 1780639202.0,
+      "summary": "Sáng 5/6, Trường Đại học FPT đã chính thức khai trương Phòng thi IELTS trên máy tính tại cơ sở Quy Nhơn (Gia Lai), đánh dấu bước tiến quan trọng trong việc chuẩn hóa hoạt động khảo thí quốc tế tại khu vực miền Trung &#8211; Tây Nguyên. Đến dự lễ khai trương có các [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Trường Đại học FPT Quy Nhơn khai trương Phòng thi IELTS trên máy tính, mở rộng cơ hội khảo thí quốc tế tại miền Trung – Tây Nguyên",
+      "link": "https://daihoc.fpt.edu.vn/gia-tri-cot-loi/quoc-te-hoa/truong-dai-hoc-fpt-quy-nhon-khai-truong-phong-thi-ielts-tren-may-tinh-mo-rong-co-hoi-khao-thi-quoc-te-tai-mien-trung-tay-nguyen/",
+      "created": "05/06/2026 12:25",
+      "created_ts": 1780637151.0,
+      "summary": "Trường Đại học FPT cơ sở Quy Nhơn vừa tổ chức lễ khai trương Phòng thi IELTS trên máy tính, đánh dấu bước tiến mới trong việc phát triển hệ sinh thái khảo thí và đào tạo quốc tế, đồng thời tạo điều kiện thuận lợi để học sinh, sinh viên và người học tại [&#8230;]"
+    },
     {
       "source": "Tin tuc",
       "title": "Sinh viên FPTU trở thành Chủ tọa trẻ tuổi nhất tại Hội thảo quốc tế ICTechED13",
@@ -57,30 +81,6 @@
       "created": "02/06/2026 19:22",
       "created_ts": 1780402943.0,
       "summary": "Sáng ngày 2/6, tại Văn phòng Hiệp hội các trường đại học, cao đẳng Việt Nam, Hiệp hội công bố Quyết định chuẩn y phân công Tiến sĩ Lê Trường Tùng – Chủ tịch Hội đồng trường Trường Đại học FPT, phụ trách điều hành hoạt động của Hiệp hội. Cụ thể, theo Quyết định [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "Ngành học tạo ra “bộ não số”: Khoa học máy tính tại FPTU có gì khác biệt?",
-      "link": "https://daihoc.fpt.edu.vn/bao-chi-noi-ve-fptu/nganh-hoc-tao-ra-bo-nao-so-khoa-hoc-may-tinh-tai-fptu-co-gi-khac-biet/",
-      "created": "02/06/2026 16:55",
-      "created_ts": 1780394156.0,
-      "summary": "Tuyển sinh từ 2026, ngành Khoa học máy tính của Trường Đại học FPT cùng 2 chuyên ngành đón đầu xu hướng: Trí tuệ nhân tạo và Khoa học dữ liệu; An ninh mạng và An toàn số sẽ là cánh cửa cho các nhân tài yêu thích công nghệ trên khắp cả nước. 200.000 [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "FPTU đào tạo ngành Khoa học máy tính theo mô hình cử nhân tài năng",
-      "link": "https://daihoc.fpt.edu.vn/bao-chi-noi-ve-fptu/fptu-dao-tao-nganh-khoa-hoc-may-tinh-theo-mo-hinh-cu-nhan-tai-nang/",
-      "created": "02/06/2026 16:52",
-      "created_ts": 1780393947.0,
-      "summary": "Chương trình Khoa học máy tính tại trường Đại học FPT (FPTU) chú trọng thực hành, đào tạo chuyên sâu về AI, dữ liệu và an ninh mạng, đáp ứng nhu cầu nhân lực công nghệ. Trường triển khai ngành Khoa học máy tính theo mô hình Cử nhân tài năng, hướng tới nhóm sinh [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "TOP 10+ trường đào tạo ngành Thiết kế đồ họa tốt nhất Việt Nam",
-      "link": "https://daihoc.fpt.edu.vn/huong-nghiep/nganh-thiet-ke-do-hoa-truong-nao/",
-      "created": "02/06/2026 10:21",
-      "created_ts": 1780370467.0,
-      "summary": "Việc lựa chọn đúng môi trường đào tạo giúp sinh viên nắm vững kiến thức thiết kế, tư duy thẩm mỹ và kỹ năng sử dụng công cụ chuyên ngành, đồng thời mở ra nhiều cơ hội thực tập và việc làm tại các agency, studio và doanh nghiệp truyền thông lớn. Trong bài viết [&#8230;]"
     },
     {
       "source": "Tuyen sinh",
