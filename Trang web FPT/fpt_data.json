@@ -1,7 +1,15 @@
 {
-  "crawled_at": "2026-06-06T10:35:59.425522+07:00",
+  "crawled_at": "2026-06-07T11:02:40.373110+07:00",
   "total": 30,
   "articles": [
+    {
+      "source": "Tin tuc",
+      "title": "Trường Đại học FPT tổ chức hội nghị về tương lai việc làm: Khi AI thay đổi luật chơi, thế hệ trẻ cần chuẩn bị những gì?",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/fptu-career-summit-2026-dinh-hinh-nang-luc-cho-the-he-tre-viet-nam-truoc-lan-song-ai-va-fdi-ky-luc/",
+      "created": "06/06/2026 22:25",
+      "created_ts": 1780759503.0,
+      "summary": "Ngày 06/06/2026, FPTU Career Summit 2026 do Trường Đại học FPT tổ chức đã diễn ra tại Hà Nội với sự tham gia của hơn 1.200 sinh viên, cùng các chuyên gia, diễn giả và lãnh đạo doanh nghiệp đến từ nhiều tập đoàn, tổ chức hàng đầu. Hội nghị đã mang đến không gian [&#8230;]"
+    },
     {
       "source": "Tin tuc",
       "title": "Thông báo về nhu cầu bổ nhiệm chức danh Phó Giáo sư năm 2026 đợt 1",
@@ -73,14 +81,6 @@
       "created": "02/06/2026 19:51",
       "created_ts": 1780404713.0,
       "summary": "Trong những năm gần đây, chứng chỉ IELTS không chỉ là &#8220;tấm vé&#8221; du học mà còn là lợi thế cực lớn trong kỳ thi tốt nghiệp THPT và xét tuyển Đại học. Vậy cách quy đổi điểm IELTS sang điểm thi Đại học hiện nay như thế nào? Trường nào ưu tiên chứng chỉ [&#8230;]"
-    },
-    {
-      "source": "Tin tuc",
-      "title": "TS Lê Trường Tùng – Chủ tịch hội đồng trường FPTU được giao phụ trách điều hành Hiệp hội Các trường đại học, cao đẳng Việt Nam",
-      "link": "https://daihoc.fpt.edu.vn/tin-tuc/ts-le-truong-tung-chu-tich-hoi-dong-truong-fptu-duoc-giao-phu-trach-dieu-hanh-hiep-hoi-cac-truong-dai-hoc-cao-dang-viet-nam/",
-      "created": "02/06/2026 19:22",
-      "created_ts": 1780402943.0,
-      "summary": "Sáng ngày 2/6, tại Văn phòng Hiệp hội các trường đại học, cao đẳng Việt Nam, Hiệp hội công bố Quyết định chuẩn y phân công Tiến sĩ Lê Trường Tùng – Chủ tịch Hội đồng trường Trường Đại học FPT, phụ trách điều hành hoạt động của Hiệp hội. Cụ thể, theo Quyết định [&#8230;]"
     },
     {
       "source": "Tuyen sinh",
