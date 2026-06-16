@@ -6,7 +6,7 @@ echo    FPT University News Crawler
 echo    Dang thu thap tin tuc...
 echo ===================================================
 echo.
-python fb_crawler.py
+python scripts\fb_crawler.py
 echo.
 echo ===================================================
 echo    Hoan thanh! File Excel da luu vao:

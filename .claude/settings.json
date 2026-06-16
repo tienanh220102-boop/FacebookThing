@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python fb_crawler.py*)",
+      "Bash(python lich_su.py*)",
+      "Bash(python cap_nhat_tom_tat.py*)",
+      "Bash(python sync_xlsx.py*)",
+      "Bash(python check_html.py*)",
+      "Bash(pytest*)",
+      "Bash(pip install*)",
+      "Bash(pip list*)",
+      "Bash(git status*)",
+      "Bash(git log*)",
+      "Bash(git diff*)"
+    ],
+    "deny": []
+  }
+}

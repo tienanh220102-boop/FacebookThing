@@ -7,6 +7,6 @@ echo    (Chi can chay 1 lan duy nhat)
 echo    Uoc tinh: 3-5 phut
 echo ===================================================
 echo.
-python lich_su.py
+python scripts\lich_su.py
 echo.
 pause
