@@ -5,7 +5,7 @@ FPT University News Crawler v2
 Thu thap tin tuc tu website chinh thuc Dai hoc FPT qua RSS feed.
 Chay moi ngay 1 lan luc 7h sang (Gio VN), xuat bao cao Excel.
 """
-import json, os, re, time
+import json, os, re, time, glob
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 import xml.etree.ElementTree as ET
@@ -205,6 +205,21 @@ def merge_articles(existing, new):
             by_link[key] = a
     return list(by_link.values())
 
+def prune_snapshots(keep_file):
+    """Xoa cac snapshot ngay cu, chi giu lai snapshot moi nhat (keep_file).
+       File tong hop (UNIFIED_XLSX) luon duoc giu."""
+    keep = {os.path.basename(keep_file), os.path.basename(UNIFIED_XLSX)}
+    removed = 0
+    for path in glob.glob('Trang web FPT/fpt_news_*.xlsx'):
+        if os.path.basename(path) not in keep:
+            try:
+                os.remove(path)
+                removed += 1
+            except OSError:
+                pass
+    if removed:
+        print(f'  Da don {removed} snapshot cu')
+
 # ── Main ──────────────────────────────────────────────────────
 def main():
     now_vn = datetime.now(VN_TZ)
@@ -238,6 +253,7 @@ def main():
     snapshot_file = f'Trang web FPT/fpt_news_{date_str}.xlsx'
     print(f'\nXuat snapshot ngay...')
     export_excel(all_articles, snapshot_file)
+    prune_snapshots(snapshot_file)   # chi giu snapshot moi nhat + file tong hop
 
     # 2) Gop vao kho tich luy -> 1 file Excel + JSON thong nhat (dia chi co dinh)
     existing = load_store()

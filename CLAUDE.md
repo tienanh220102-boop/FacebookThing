@@ -13,7 +13,7 @@ Dự án này: crawl bài viết từ trang web FPT University → lưu vào Exc
 | "cập nhật tóm tắt" | `python scripts/cap_nhat_tom_tat.py` |
 | "đồng bộ Excel" | `python scripts/sync_xlsx.py` |
 | "kiểm tra HTML" | `python scripts/check_html.py` |
-| "kết quả ở đâu" | File thống nhất `Trang web FPT/fpt_news_tong_hop.xlsx` (tích lũy mọi lần chạy); snapshot ngày là `fpt_news_YYYYMMDD.xlsx` |
+| "kết quả ở đâu" | File thống nhất `Trang web FPT/fpt_news_tong_hop.xlsx` (tích lũy mọi lần chạy); chỉ giữ thêm 1 snapshot ngày mới nhất `fpt_news_YYYYMMDD.xlsx` (snapshot cũ tự xóa) |
 | "chạy test" | `pytest tests/` |
 | "permissions Claude Code" | `.claude/settings.json` |
 
