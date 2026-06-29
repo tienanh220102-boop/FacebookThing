@@ -15,8 +15,9 @@ import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment
 
 # ── Cau hinh ──────────────────────────────────────────────────
-DATA_FILE = 'Trang web FPT/fpt_data.json'
-VN_TZ     = timezone(timedelta(hours=7))
+DATA_FILE     = 'Trang web FPT/fpt_data.json'          # kho tich luy (JSON)
+UNIFIED_XLSX  = 'Trang web FPT/fpt_news_tong_hop.xlsx' # 1 file Excel thong nhat (dia chi co dinh)
+VN_TZ         = timezone(timedelta(hours=7))
 
 # RSS feeds chinh thuc cua Dai hoc FPT
 FEEDS = {
@@ -181,6 +182,29 @@ def export_excel(all_articles, filename):
     wb.save(filename)
     print(f'  Xuat thanh cong: {filename}')
 
+# ── Kho tich luy (dedupe theo link) ───────────────────────────
+def _norm_link(link):
+    return (link or '').rstrip('/') + '/'
+
+def load_store():
+    """Doc kho bai viet da tich luy tu cac lan chay truoc."""
+    try:
+        with open(DATA_FILE, encoding='utf-8') as f:
+            return json.load(f).get('articles', [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+def merge_articles(existing, new):
+    """Gop bai moi vao kho, dedupe theo link chuan hoa; bo sung created_ts neu ban cu thieu."""
+    by_link = {_norm_link(a['link']): a for a in existing}
+    for a in new:
+        key = _norm_link(a['link'])
+        if key not in by_link:
+            by_link[key] = a
+        elif a.get('created_ts', 0) and not by_link[key].get('created_ts'):
+            by_link[key] = a
+    return list(by_link.values())
+
 # ── Main ──────────────────────────────────────────────────────
 def main():
     now_vn = datetime.now(VN_TZ)
@@ -208,19 +232,30 @@ def main():
         return
 
     os.makedirs('Trang web FPT', exist_ok=True)
-    date_str   = now_vn.strftime('%Y%m%d')
-    excel_file = f'Trang web FPT/fpt_news_{date_str}.xlsx'
-    print(f'\nXuat Excel...')
-    export_excel(all_articles, excel_file)
+
+    # 1) Snapshot theo ngay — chi cac bai lay duoc trong lan chay nay
+    date_str      = now_vn.strftime('%Y%m%d')
+    snapshot_file = f'Trang web FPT/fpt_news_{date_str}.xlsx'
+    print(f'\nXuat snapshot ngay...')
+    export_excel(all_articles, snapshot_file)
+
+    # 2) Gop vao kho tich luy -> 1 file Excel + JSON thong nhat (dia chi co dinh)
+    existing = load_store()
+    store    = merge_articles(existing, all_articles)
+    added    = len(store) - len(existing)
+    print(f'\nGop kho: +{added} bai moi, tong cong {len(store)} bai')
+    export_excel(store, UNIFIED_XLSX)
 
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump({
             'crawled_at':   now_vn.isoformat(),
-            'total':        len(all_articles),
-            'articles':     all_articles,
+            'total':        len(store),
+            'articles':     store,
         }, f, ensure_ascii=False, indent=2)
 
-    print(f'\n=== Hoan thanh. {len(all_articles)} bai tu {len(FEEDS)} nguon ===')
+    print(f'\n=== Hoan thanh. +{added} bai moi / {len(store)} bai trong kho ===')
+    print(f'  File thong nhat: {UNIFIED_XLSX}')
+    print(f'  Du lieu JSON:    {DATA_FILE}')
 
 if __name__ == '__main__':
     main()

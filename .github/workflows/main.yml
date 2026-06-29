@@ -25,7 +25,7 @@ jobs:
         run: pip install requests openpyxl
 
       - name: Run FPT News Crawler
-        run: python fb_crawler.py
+        run: python scripts/fb_crawler.py
 
       - name: Upload Excel report
         uses: actions/upload-artifact@v4

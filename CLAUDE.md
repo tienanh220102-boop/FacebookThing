@@ -13,7 +13,7 @@ Dự án này: crawl bài viết từ trang web FPT University → lưu vào Exc
 | "cập nhật tóm tắt" | `python scripts/cap_nhat_tom_tat.py` |
 | "đồng bộ Excel" | `python scripts/sync_xlsx.py` |
 | "kiểm tra HTML" | `python scripts/check_html.py` |
-| "kết quả ở đâu" | Thư mục `Trang web FPT/` — file Excel |
+| "kết quả ở đâu" | File thống nhất `Trang web FPT/fpt_news_tong_hop.xlsx` (tích lũy mọi lần chạy); snapshot ngày là `fpt_news_YYYYMMDD.xlsx` |
 | "chạy test" | `pytest tests/` |
 | "permissions Claude Code" | `.claude/settings.json` |
 
@@ -28,7 +28,7 @@ Dự án này: crawl bài viết từ trang web FPT University → lưu vào Exc
 
 ```
 Trang web FPT University (HTML)
-  └── fb_crawler.py          → crawl bài mới → Trang web FPT/*.xlsx
+  └── fb_crawler.py          → crawl bài mới → snapshot ngày + gộp vào Trang web FPT/fpt_news_tong_hop.xlsx (dedupe theo link)
   └── lich_su.py             → crawl toàn bộ lịch sử (1 lần)
   └── cap_nhat_tom_tat.py    → tóm tắt nội dung bằng AI
   └── sync_xlsx.py           → đồng bộ, deduplicate
