@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-07-03T10:21:09.195950+07:00",
-  "total": 202,
+  "crawled_at": "2026-07-04T10:14:49.558863+07:00",
+  "total": 203,
   "articles": [
     {
       "source": "Tin tuc",
@@ -1617,6 +1617,14 @@
       "created": "23/06/2026 11:20",
       "created_ts": 1782188410.0,
       "summary": "Không chỉ là một vòng đánh giá năng lực, 3 ngày phỏng vấn đợt 2 Chương trình Tìm kiếm Nhân tài Kỷ nguyên số Việt Nam &#8211; Học bổng Nguyễn Văn Đạo đã trở thành không gian để gần 1.200 Gen Z tự tin thể hiện bản lĩnh, tư duy khác biệt và khát vọng [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Cất nóc Tổ hợp Giáo dục Bình Dương, hình thành trung tâm giáo dục công nghệ quy mô lớn tại phía Nam",
+      "link": "https://daihoc.fpt.edu.vn/tin-hot/cat-noc-to-hop-giao-duc-binh-duong-hinh-thanh-trung-tam-giao-duc-cong-nghe-quy-mo-lon-tai-phia-nam/",
+      "created": "03/07/2026 16:37",
+      "created_ts": 1783071478.0,
+      "summary": "Ngày 3/7/2026, Lễ cất nóc Tổ hợp Giáo dục FPT Bình Dương đã diễn ra tại phường Tân Đông Hiệp, TP.HCM (trước là phường Thái Hòa, TP. Tân Uyên, Bình Dương cũ), đánh dấu bước hoàn thiện quan trọng của một trong những dự án giáo dục có quy mô lớn nhất khu vực Đông [&#8230;]"
     }
   ]
 }
