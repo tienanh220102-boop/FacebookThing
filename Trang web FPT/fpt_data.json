@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-07-14T09:32:41.694648+07:00",
-  "total": 233,
+  "crawled_at": "2026-07-15T09:31:10.359835+07:00",
+  "total": 235,
   "articles": [
     {
       "source": "Tin tuc",
@@ -1865,6 +1865,22 @@
       "created": "13/07/2026 16:05",
       "created_ts": 1783933527.0,
       "summary": "Một trong những thắc mắc phổ biến của thí sinh khu vực Đồng bằng Sông Cửu Long khi chuẩn bị đăng ký nguyện vọng là: mã trường Đại học FPT phân hiệu Cần Thơ là gì, có khác mã các campus khác không? Bài viết dưới đây giải đáp rõ câu hỏi này, đồng thời [&#8230;]"
+    },
+    {
+      "source": "Su kien",
+      "title": "HỘI THẢO PHỤ HUYNH: AI VÀ TƯƠNG LAI NGHỀ NGHIỆP – ĐỒNG HÀNH CÙNG CON TRƯỚC NGƯỠNG CỬA ĐẠI HỌC",
+      "link": "https://daihoc.fpt.edu.vn/event/hoi-thao-phu-huynh-ai-va-tuong-lai-nghe-nghiep-dong-hanh-cung-con-truoc-nguong-cua-dai-hoc/",
+      "created": "14/07/2026 09:56",
+      "created_ts": 1783997791.0,
+      "summary": "Tham gia Hội thảo Phụ huynh của Trường Đại học FPT để cập nhật xu hướng AI, định hướng nghề nghiệp, lựa chọn ngành học và đồng hành cùng con trước ngưỡng cửa đại học. Trong bối cảnh trí tuệ nhân tạo (AI) đang tạo ra những thay đổi sâu rộng đối với giáo dục [&#8230;]"
+    },
+    {
+      "source": "Su kien",
+      "title": "FPTU CAMP 2026: Chương trình trải nghiệm 24 giờ dành cho học sinh THPT",
+      "link": "https://daihoc.fpt.edu.vn/event/fptu-camp-2026-chuong-trinh-trai-nghiem-24-gio-danh-cho-hoc-sinh-thpt/",
+      "created": "30/06/2026 15:32",
+      "created_ts": 1782808345.0,
+      "summary": "Trong bối cảnh công nghệ và trí tuệ nhân tạo đang thay đổi mạnh mẽ cách con người học tập và làm việc, việc lựa chọn môi trường đại học không chỉ dừng lại ở ngành học hay tấm bằng. Điều nhiều học sinh và phụ huynh quan tâm hơn là liệu môi trường đó [&#8230;]"
     }
   ]
 }
