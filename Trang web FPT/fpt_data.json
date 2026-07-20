@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-07-19T09:46:47.071769+07:00",
-  "total": 240,
+  "crawled_at": "2026-07-20T10:16:14.194321+07:00",
+  "total": 241,
   "articles": [
     {
       "source": "Tin tuc",
@@ -1921,6 +1921,14 @@
       "created": "17/07/2026 10:02",
       "created_ts": 1784257339.0,
       "summary": "Đặng Thanh Nga (chuyên ngành Truyền thông đa phương tiện, Trường Đại học FPT) trở thành sinh viên duy nhất của Việt Nam đại diện tham dự sự kiện Gemini Report Southeast Asia 2026 do Google tổ chức tại Singapore, đã mang đến góc nhìn của người trẻ về ứng dụng AI trong giáo dục [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Điểm danh dàn “tinh hoa” 2K8 hội quân tại FPTU",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/diem-danh-dan-tinh-hoa-2k8-hoi-quan-tai-fptu/",
+      "created": "18/07/2026 09:14",
+      "created_ts": 1784340854.0,
+      "summary": "Sau bảng thành tích khủng tại trung học phổ thông, rất nhiều gương mặt xuất sắc 2k8 tiếp tục lựa chọn Trường Đại học FPT (FPTU) làm bến đỗ, quyết tâm ghi những dấu ấn lớn hơn trong hành trình 4 năm đại học. Rất nhiều những tân binh xuất sắc “hệ điều hành” 2K8 [&#8230;]"
     }
   ]
 }
