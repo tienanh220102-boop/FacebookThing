@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-07-30T09:27:21.435999+07:00",
-  "total": 278,
+  "crawled_at": "2026-07-31T09:51:46.446764+07:00",
+  "total": 279,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2225,6 +2225,14 @@
       "created": "29/07/2026 21:03",
       "created_ts": 1785333808.0,
       "summary": "Ứng dụng AI giúp nhóm sinh viên Trường Đại học FPT Cần Thơ phát triển Mekong Pathfinder, hỗ trợ cảnh báo ngập lụt và di chuyển an toàn mùa mưa. Trong bối cảnh tình trạng ngập lụt đô thị ngày càng diễn biến phức tạp, ứng dụng AI đang mở ra nhiều giải pháp hỗ [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên FPTU được tài trợ 136 triệu đồng học bổng, gia nhập FPT Software sau chương trình Kỹ sư CNTT Nhật Bản",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/sinh-vien-fptu-duoc-tai-tro-136-trieu-dong-hoc-bong-gia-nhap-fpt-software-sau-chuong-trinh-ky-su-cntt-nhat-ban/",
+      "created": "30/07/2026 14:22",
+      "created_ts": 1785396137.0,
+      "summary": "11 sinh viên Trường Đại học FPT chính thức trở thành nhân viên FPT Software ngay sau khi hoàn thành Chương trình Kỹ sư Công nghệ thông tin Nhật Bản. Trong đó, 6 sinh viên được trao học bổng vì có thành tích xuất sắc với tổng giá trị 136 triệu đồng. Kết quả này [&#8230;]"
     }
   ]
 }
