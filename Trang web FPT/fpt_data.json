@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-07-31T09:51:46.446764+07:00",
-  "total": 279,
+  "crawled_at": "2026-08-01T09:50:54.855737+07:00",
+  "total": 281,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2233,6 +2233,22 @@
       "created": "30/07/2026 14:22",
       "created_ts": 1785396137.0,
       "summary": "11 sinh viên Trường Đại học FPT chính thức trở thành nhân viên FPT Software ngay sau khi hoàn thành Chương trình Kỹ sư Công nghệ thông tin Nhật Bản. Trong đó, 6 sinh viên được trao học bổng vì có thành tích xuất sắc với tổng giá trị 136 triệu đồng. Kết quả này [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên FPTU liên tiếp ghi dấu ấn tại các sân chơi công nghệ quốc tế",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/sinh-vien-fptu-lien-tiep-ghi-dau-an-tai-cac-san-choi-cong-nghe-quoc-te/",
+      "created": "31/07/2026 17:02",
+      "created_ts": 1785492138.0,
+      "summary": "Vừa qua, sinh viên FPTU ghi nhiều dấu ấn tại các sân chơi công nghệ quốc tế với công trình nghiên cứu AI được trình bày tại hội thảo ATiGB 2026 và giải pháp AI giành Top 1 tại Agentic AI Build Week 2026. Sinh viên ngành Công nghệ thông tin chinh phục Top 1 [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "“Du học trong nước”: Trải nghiệm “unique” chỉ có tại FPTU",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/du-hoc-trong-nuoc-trai-nghiem-unique-chi-co-tai-fptu/",
+      "created": "31/07/2026 13:58",
+      "created_ts": 1785481113.0,
+      "summary": "Không nhất thiết phải đi du học, sinh viên Trường Đại học FPT có cơ học tập và trưởng thành ở nhiều thành phố khác nhau ngay trong quãng thời gian đại học thông qua chương trình “Local Exchange”, mô hình học đa điểm được ví như một hành trình &#8220;du học trong nước&#8221;. Hãy [&#8230;]"
     }
   ]
 }
