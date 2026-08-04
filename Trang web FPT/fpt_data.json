@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-08-03T09:50:57.874702+07:00",
-  "total": 281,
+  "crawled_at": "2026-08-04T09:34:39.163247+07:00",
+  "total": 282,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2249,6 +2249,14 @@
       "created": "31/07/2026 13:58",
       "created_ts": 1785481113.0,
       "summary": "Không nhất thiết phải đi du học, sinh viên Trường Đại học FPT có cơ học tập và trưởng thành ở nhiều thành phố khác nhau ngay trong quãng thời gian đại học thông qua chương trình “Local Exchange”, mô hình học đa điểm được ví như một hành trình &#8220;du học trong nước&#8221;. Hãy [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Học kỳ tiếng Anh ở nước ngoài: “Tấm hộ chiếu” nâng cao năng lực cạnh tranh toàn cầu của sinh viên FPTU",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/hoc-ky-tieng-anh-o-nuoc-ngoai-tam-ho-chieu-nang-cao-nang-luc-canh-tranh-toan-cau-cua-sinh-vien-fptu/",
+      "created": "03/08/2026 14:35",
+      "created_ts": 1785742534.0,
+      "summary": "Chu du các nước với Học kỳ tiếng Anh ở nước ngoài là một trong những trải nghiệm đặc biệt của nhiều sinh viên Trường Đại học FPT. Đây là hành trình mà các bạn phải tự lập nơi xứ người, trau dồi kỹ năng ngôn ngữ toàn diện và gom về những trải nghiệm [&#8230;]"
     }
   ]
 }
