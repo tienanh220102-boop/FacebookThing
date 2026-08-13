@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-08-12T08:58:47.643625+07:00",
-  "total": 290,
+  "crawled_at": "2026-08-13T09:01:11.579468+07:00",
+  "total": 291,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2321,6 +2321,14 @@
       "created": "11/08/2026 20:37",
       "created_ts": 1786455453.0,
       "summary": "Trường Đại học FPT mở cổng tra cứu kết quả xét tuyển dành cho thí sinh thi đăng ký nguyện vọng vào trường năm 2026. Để tra cứu kết quả xét tuyển, thí sinh truy cập tại đây. Tại ô tra cứu, thí sinh nhập số CCCD (đã đăng ký trên hệ thống tuyển sinh [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Trường Đại học FPT triển khai chương trình ưu tiên xét tuyển và công nhận tín chỉ dành cho sinh viên FPT Polytechnic, BTEC HND, Melbourne Polytechnic",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/truong-dai-hoc-fpt-trien-khai-chuong-trinh-uu-tien-xet-tuyen-va-cong-nhan-tin-chi-danh-cho-sinh-vien-fpt-polytechnic-btec-hnd-melbourne-polytechnic/",
+      "created": "12/08/2026 17:30",
+      "created_ts": 1786530625.0,
+      "summary": "Trường Đại học FPT chính thức triển khai chính sách ưu tiên xét tuyển và công nhận tín chỉ năm 2026 dành cho sinh viên đã hoàn thành chương trình đào tạo tại Trường Cao đẳng FPT Polytechnic, chương trình BTEC HND, Melbourne Polytechnic có nguyện vọng tiếp tục học lên trình độ đại học. [&#8230;]"
     }
   ]
 }
