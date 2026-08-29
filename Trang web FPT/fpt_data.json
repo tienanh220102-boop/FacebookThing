@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-08-28T16:59:32.120936+07:00",
-  "total": 325,
+  "crawled_at": "2026-08-29T12:58:06.942187+07:00",
+  "total": 326,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2601,6 +2601,14 @@
       "created": "27/08/2026 16:16",
       "created_ts": 1787822193.0,
       "summary": "Bên cạnh những giờ học trên giảng đường, hành trình đại học còn là khoảng thời gian để sinh viên khám phá sở thích, phát triển kỹ năng và mở rộng những trải nghiệm mới. Tại Trường Đại học FPT cơ sở Hà Nội, Chương trình Phát triển cá nhân (PDP) mang đến hệ sinh [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên FPTU có thể thanh toán học phí linh hoạt theo kỳ hạn cùng FPT Pay",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/sinh-vien-fptu-co-the-thanh-toan-hoc-phi-linh-hoat-theo-ky-han-cung-fpt-pay/",
+      "created": "26/08/2026 09:04",
+      "created_ts": 1787709880.0,
+      "summary": "Sinh viên Trường Đại học FPT có thêm lựa chọn thanh toán học phí qua FPT Pay theo phương thức trả góp bằng thẻ tín dụng, tùy theo ngân hàng phát hành thẻ, loại thẻ và kỳ hạn được áp dụng. Đăng ký đơn giản: Thực hiện trực tiếp trên hệ thống thanh toán học [&#8230;]"
     }
   ]
 }
