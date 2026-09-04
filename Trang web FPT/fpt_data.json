@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-09-03T10:18:52.459881+07:00",
-  "total": 337,
+  "crawled_at": "2026-09-04T10:17:01.509780+07:00",
+  "total": 338,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2697,6 +2697,14 @@
       "created": "02/09/2026 13:01",
       "created_ts": 1788328869.0,
       "summary": "OrcaX do sinh viên Trường Đại học FPT phát triển, giúp người bệnh trải nghiệm bệnh viện, tiếp cận thông tin y tế và hỗ trợ sàng lọc sớm bệnh lý mắt. Xuất phát từ thực tế nhiều người e ngại đi khám bệnh do thiếu thông tin về quy trình, không gian khám chữa [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Từ vùng quê tới FPTU, 3 chàng trai tìm “bệ phóng” mang đam mê công nghệ cống hiến cho cộng đồng",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/tu-vung-que-toi-fptu-3-chang-trai-tim-be-phong-mang-dam-me-cong-nghe-cong-hien-cho-cong-dong/",
+      "created": "03/09/2026 11:26",
+      "created_ts": 1788409616.0,
+      "summary": "Với 3 chàng trai đến từ Đồng Tháp, Quảng Ngãi và Quảng Nam (cũ), công nghệ là “ngôn ngữ” để tạo ra những giá trị có ích cho con người, tìm lời giải cho những bài toán trong đời sống và phụng sự xã hội. Điểm chung ở giao điểm đam mê ấy đã đưa [&#8230;]"
     }
   ]
 }
