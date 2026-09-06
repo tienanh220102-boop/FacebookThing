@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-09-05T10:20:11.290902+07:00",
-  "total": 340,
+  "crawled_at": "2026-09-06T10:20:00.814556+07:00",
+  "total": 341,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2721,6 +2721,14 @@
       "created": "04/09/2026 14:53",
       "created_ts": 1788508408.0,
       "summary": "Trong môi trường giáo dục khuyến khích sáng tạo và thử nghiệm những điều mới mẻ, sinh viên Trường Đại học FPT ứng dụng công nghệ để tạo ra các giải pháp y tế, đóng góp giá trị ý nghĩa lớn cho cộng đồng và đạt được những thành quả ấn tượng. Không phải đồ [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "K22 FPTU khắp cả nước hân hoan đón năm học mới và tham gia tuần lễ định hướng",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/k22-fptu-khap-ca-nuoc-han-hoan-don-nam-hoc-moi-va-tham-gia-tuan-le-dinh-huong/",
+      "created": "05/09/2026 13:26",
+      "created_ts": 1788589570.0,
+      "summary": "Trường Đại học FPT chính thức khởi động năm học 2026–2027 với chuỗi hoạt động chào đón sinh viên nhiều màu sắc và lễ khai giảng được tổ chức tại các campus trên toàn quốc. Sáng 5/9, không khí năm học mới đã chính thức lan tỏa tại Trường Đại học FPT (FPTU) tổ chức [&#8230;]"
     }
   ]
 }
