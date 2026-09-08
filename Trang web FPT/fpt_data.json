@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-09-07T10:18:27.632705+07:00",
-  "total": 341,
+  "crawled_at": "2026-09-08T10:25:41.296840+07:00",
+  "total": 342,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2729,6 +2729,14 @@
       "created": "05/09/2026 13:26",
       "created_ts": 1788589570.0,
       "summary": "Trường Đại học FPT chính thức khởi động năm học 2026–2027 với chuỗi hoạt động chào đón sinh viên nhiều màu sắc và lễ khai giảng được tổ chức tại các campus trên toàn quốc. Sáng 5/9, không khí năm học mới đã chính thức lan tỏa tại Trường Đại học FPT (FPTU) tổ chức [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Khai mạc Hội nghị quốc tế APWeb-WAIM 2026 tại Trường ĐH FPT, thúc đẩy nghiên cứu về quản lý thông tin thời đại AI",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/khai-mac-hoi-nghi-quoc-te-apweb-waim-2026-tai-truong-dh-fpt-thuc-day-nghien-cuu-ve-quan-ly-thong-tin-thoi-dai-ai/",
+      "created": "07/09/2026 16:33",
+      "created_ts": 1788773599.0,
+      "summary": "Sáng ngày 07/9, Hội nghị quốc tế 10th Asia Pacific Web and Web-Age Information Management Joint International Conference on Web and Big Data (APWeb-WAIM 2026) đã khai mạc tại Trường Đại học FPT phân hiệu Đà Nẵng. Đây là lần đầu tiên APWeb-WAIM được tổ chức tại Việt Nam, thúc đẩy trao đổi học thuật [&#8230;]"
     }
   ]
 }
