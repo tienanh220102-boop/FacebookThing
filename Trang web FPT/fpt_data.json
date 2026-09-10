@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-09-09T10:29:14.136652+07:00",
-  "total": 345,
+  "crawled_at": "2026-09-10T10:27:24.995627+07:00",
+  "total": 347,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2761,6 +2761,22 @@
       "created": "08/09/2026 11:05",
       "created_ts": 1788840301.0,
       "summary": "Chiều 7/9, đoàn công tác UBND tỉnh Cà Mau do ông Nguyễn Minh Luân &#8211; Ủy viên Ban Thường vụ Tỉnh ủy, Phó Chủ tịch UBND tỉnh, dẫn đầu đã đến tham quan và làm việc tại Trường Đại học FPT (FPTU) cơ sở TP.HCM. Chuyến thăm mở ra cơ hội trao đổi về giáo [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "65 sinh viên FPTU ra quân hỗ trợ chuyển đổi số xã Vân Đình và tỉnh Quảng Ninh",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/65-sinh-vien-fptu-ra-quan-ho-tro-chuyen-doi-so-xa-van-dinh-va-tinh-quang-ninh/",
+      "created": "09/09/2026 16:15",
+      "created_ts": 1788945335.0,
+      "summary": "Các sinh viên Trường Đại học FPT sẽ tham gia OJT kỳ Fall 2026 tại Hà Nội và Quảng Ninh, hỗ trợ địa phương triển khai các nhiệm vụ công nghệ thông tin, số hóa dữ liệu và phát triển những sáng kiến phục vụ chuyển đổi số. Sáng 9/9, Trường Đại học FPT (FPTU) [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Năm học mới, sinh viên FPTU có thêm không gian trải nghiệm quy mô lớn mang tên Omega Hub",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/nam-hoc-moi-sinh-vien-fptu-co-them-khong-gian-trai-nghiem-quy-mo-lon-mang-ten-omega-hub/",
+      "created": "08/09/2026 18:51",
+      "created_ts": 1788868286.0,
+      "summary": "Bước vào năm học mới, sinh viên Trường Đại học FPT tại Hòa Lạc có thêm Omega Hub &#8211; nhà đa năng gần 5.460 m² dành cho thể thao, học tập, văn hóa và các hoạt động cộng đồng. Không gian mới không chỉ bổ sung thêm địa điểm cho những hoạt động bên ngoài [&#8230;]"
     }
   ]
 }
