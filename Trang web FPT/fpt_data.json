@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-09-13T10:36:06.675503+07:00",
-  "total": 349,
+  "crawled_at": "2026-09-14T10:45:41.510408+07:00",
+  "total": 350,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2793,6 +2793,14 @@
       "created": "11/09/2026 15:42",
       "created_ts": 1789116176.0,
       "summary": "Trường Đại học FPT phối hợp cùng Hiệp hội Hóa học, Sinh học và Kỹ thuật môi trường Hong Kong (HK CBEES) đồng tổ chức 2027 12th International Conference on Intelligent Information Technology (ICIIT 2027) từ ngày 04/03 &#8211; 07/03/2027 tại Thành phố Hồ Chí Minh. Trường Đại học FPT đăng cai Hội nghị quốc [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Dự án khởi nghiệp của sinh viên FPTU được doanh nghiệp rót vốn đầu tư ngay tại phòng bảo vệ",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/du-an-khoi-nghiep-cua-sinh-vien-fptu-duoc-doanh-nghiep-rot-von-dau-tu-ngay-tai-phong-bao-ve/",
+      "created": "14/09/2026 09:39",
+      "created_ts": 1789353599.0,
+      "summary": "Chỉ sau hơn nửa năm thử nghiệm, dự án QATTH &#8211; nền tảng ứng dụng AI hỗ trợ người dùng trên hành trình tìm việc &#8211; do nhóm sinh viên Trường Đại học FPT phát triển đã ghi nhận hơn 20.000 phiên truy cập, 45 triệu đồng doanh thu; và đặc biệt được nhà đầu [&#8230;]"
     }
   ]
 }
