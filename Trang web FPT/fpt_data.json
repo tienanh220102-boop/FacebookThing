@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-09-14T10:45:41.510408+07:00",
-  "total": 350,
+  "crawled_at": "2026-09-15T10:46:08.838681+07:00",
+  "total": 351,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2801,6 +2801,14 @@
       "created": "14/09/2026 09:39",
       "created_ts": 1789353599.0,
       "summary": "Chỉ sau hơn nửa năm thử nghiệm, dự án QATTH &#8211; nền tảng ứng dụng AI hỗ trợ người dùng trên hành trình tìm việc &#8211; do nhóm sinh viên Trường Đại học FPT phát triển đã ghi nhận hơn 20.000 phiên truy cập, 45 triệu đồng doanh thu; và đặc biệt được nhà đầu [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên FPTU đồng hành cùng bệnh nhân ung thư vú tìm lại sự tự tin với nhiều hoạt động ý nghĩa",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/sinh-vien-fptu-dong-hanh-cung-benh-nhan-ung-thu-vu-tim-lai-su-tu-tin-voi-nhieu-hoat-dong-y-nghia/",
+      "created": "15/09/2026 09:02",
+      "created_ts": 1789437723.0,
+      "summary": "Được Bệnh viện K và Trung tâm chăm sóc giảm nhẹ Hospice Spring bảo trợ chuyên môn, đồ án tốt nghiệp của sinh viên FPTU đã góp phần tiếp thêm sự tự tin và lan tỏa thông điệp tích cực tới phụ nữ mắc ung thư. Sau các phác đồ điều trị, nhiều phụ nữ [&#8230;]"
     }
   ]
 }
