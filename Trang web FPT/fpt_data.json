@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-09-20T10:47:59.749486+07:00",
-  "total": 360,
+  "crawled_at": "2026-09-21T10:43:52.430589+07:00",
+  "total": 361,
   "articles": [
     {
       "source": "Tin tuc",
@@ -2881,6 +2881,14 @@
       "created": "19/09/2026 23:39",
       "created_ts": 1789835977.0,
       "summary": "Trong Lễ khai giảng tại cơ sở Hà Nội, TS. Nguyễn Khắc Thành &#8211; Hiệu trưởng Trường Đại học FPT đã chia sẻ 6 điểm khác biệt tại FPTU để tân sinh viên có thể trải nghiệm trọn vẹn quãng đời thanh xuân tuyệt đẹp của mình. Sáng 19/9, Lễ khai giảng dành cho sinh [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Trường Đại học FPT kết nối doanh nghiệp và viện nghiên cứu, hướng tới đào tạo 30.000 nhân lực công nghệ chiến lược",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/truong-dai-hoc-fpt-ket-noi-doanh-nghiep-va-vien-nghien-cuu-huong-toi-dao-tao-30-000-nhan-luc-cong-nghe-chien-luoc/",
+      "created": "21/09/2026 09:20",
+      "created_ts": 1789957210.0,
+      "summary": "Trường Đại học FPT (FPTU), Tập đoàn FPT và Viện Quantum AI &#38; Cyber Security (QACI) đã công bố hợp tác về phát triển nguồn nhân lực, nghiên cứu, làm chủ công nghệ chiến lược. Theo đó, đến năm 2041, các bên hướng tới đào tạo 30.000 nhân lực, 100 tiến sĩ trong các lĩnh [&#8230;]"
     }
   ]
 }
