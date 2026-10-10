@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-09T11:57:15.148466+07:00",
-  "total": 397,
+  "crawled_at": "2026-10-10T11:42:39.408819+07:00",
+  "total": 398,
   "articles": [
     {
       "source": "Tin tuc",
@@ -3177,6 +3177,14 @@
       "created": "08/10/2026 14:03",
       "created_ts": 1791442984.0,
       "summary": "Sáng ngày 05/10/2026, Trường Đại học FPT cơ sở Quy Nhơn tổ chức Lễ Xuất quân dành cho tân sinh viên K22, chính thức khởi đầu Tháng Rèn luyện tập trung 2026 tại Trung tâm Giáo dục Quốc phòng &#38; An ninh Trường Đại học Quy Nhơn. Đây là một trong những hoạt động đầu [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "FPTU phát động cuộc thi robotics quốc tế FIRST Tech Challenge Vietnam 2026 dành cho học sinh, chuẩn bị sớm nguồn nhân lực công nghệ chiến lược",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/fptu-phat-dong-cuoc-thi-robotics-quoc-te-first-tech-challenge-vietnam-2026-danh-cho-hoc-sinh-chuan-bi-som-nguon-nhan-luc-cong-nghe-chien-luoc/",
+      "created": "09/10/2026 12:54",
+      "created_ts": 1791525278.0,
+      "summary": "FPTU tiếp tục là đơn vị độc quyền tổ chức Giải đấu robotics FIRST Tech Challenge tại Việt Nam với mục tiêu tạo sân chơi khởi đầu để học sinh tiếp tục theo đuổi robotics, AI, kỹ thuật, công nghệ và các lĩnh vực STEM trong tương lai. Chủ đề của mùa giải năm nay [&#8230;]"
     }
   ]
 }
