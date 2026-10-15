@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-14T10:51:16.638446+07:00",
-  "total": 403,
+  "crawled_at": "2026-10-15T10:32:55.349646+07:00",
+  "total": 406,
   "articles": [
     {
       "source": "Tin tuc",
@@ -3225,6 +3225,30 @@
       "created": "13/10/2026 13:14",
       "created_ts": 1791872073.0,
       "summary": "Được ghi nhận trong Top 2% nhà khoa học có ảnh hưởng nhất thế giới năm 2026, 4 giảng viên, nghiên cứu viên Trường Đại học FPT có những hành trình khác nhau với khoa học. Tuy nhiên, điểm chung của họ nằm ở cách tri thức được vun đắp, chia sẻ và tiếp tục [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "FPTU Quy Nhơn đồng hành cùng tỉnh đoàn Gia Lai trong hoạt động tập huấn ứng dụng AI",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/fptu-quy-nhon-dong-hanh-cung-tinh-doan-gia-lai-trong-hoat-dong-tap-huan-ung-dung-ai/",
+      "created": "15/10/2026 09:40",
+      "created_ts": 1792032036.0,
+      "summary": "Hưởng ứng Ngày Chuyển đổi số quốc gia (10/10), Ban Thường vụ Tỉnh đoàn Gia Lai phối hợp với Trường Đại học FPT cơ sở Quy Nhơn và các đơn vị liên quan tổ chức các lớp tập huấn ứng dụng trí tuệ nhân tạo (AI) và nâng cao năng lực số. Đối tượng tham [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên FPTU phát hiện 3 lỗ hổng bảo mật, được cấp mã định danh lỗ hổng quốc tế",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/sinh-vien-fptu-phat-hien-3-lo-hong-bao-mat-duoc-cap-ma-dinh-danh-lo-hong-quoc-te/",
+      "created": "15/10/2026 08:51",
+      "created_ts": 1792029082.0,
+      "summary": "Sinh viên K18 chuyên ngành An toàn thông tin Trường Đại học FPT (FPTU) đã phát hiện 3 lỗ hổng SQL Injection được cấp mã CVE quốc tế. Trong đó, một lỗ hổng thuộc nhóm mức độ nghiêm trọng cao, tiềm ẩn nguy cơ cho kẻ xấu truy cập và can thiệp trái phép vào [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Trần Huỳnh Vân Anh: Từ những lần nghi ngờ bản thân đến danh hiệu Cóc Vàng tại FPTU",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/tran-huynh-van-anh-tu-nhung-lan-nghi-ngo-ban-than-den-danh-hieu-coc-vang-tai-fptu/",
+      "created": "15/10/2026 08:00",
+      "created_ts": 1792026003.0,
+      "summary": "Sở hữu học bổng 100%, đảm nhiệm vai trò Chủ nhiệm câu lạc bộ Khởi nghiệp cùng hàng loạt hoạt động ngoại khóa sôi nổi, Trần Huỳnh Vân Anh (sinh viên K20 chuyên ngành Kinh doanh quốc tế) là gương mặt nổi bật trong cộng đồng sinh viên Trường Đại học FPT. Việc xuất sắc [&#8230;]"
     }
   ]
 }
