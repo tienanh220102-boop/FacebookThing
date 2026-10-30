@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-29T11:43:15.012308+07:00",
-  "total": 432,
+  "crawled_at": "2026-10-30T11:43:20.331737+07:00",
+  "total": 433,
   "articles": [
     {
       "source": "Tin tuc",
@@ -3457,6 +3457,14 @@
       "created": "29/10/2026 09:21",
       "created_ts": 1793240479.0,
       "summary": "Rút kinh nghiệm từ mùa giải trước, ba sinh viên chuyên ngành Kỹ thuật Phần mềm Trường Đại học FPT đã trở lại đấu trường ICPC, bứt phá mạnh mẽ với giải Nhì khu vực miền Nam và giành vé vào vòng Quốc gia năm 2026. Chủ nhật ngày 18/10/2026, hơn 700 thí sinh từ [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Vượt giới hạn ngành Ngôn ngữ: Tân thủ khoa FPTU với 7 công bố quốc tế, 2 dự án khởi nghiệp",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/vuot-gioi-han-nganh-ngon-ngu-tan-thu-khoa-fptu-voi-7-cong-bo-quoc-te-2-du-an-khoi-nghiep/",
+      "created": "29/10/2026 11:53",
+      "created_ts": 1793249630.0,
+      "summary": "Không những trở thành tân thủ khoa khối ngành Ngôn ngữ Anh, Trường Đại học FPT (FPTU), Nguyễn Huỳnh Hoài Phú còn sở hữu 7 công trình nghiên cứu khoa học quốc tế năm 2026, sáng lập và trực tiếp lãnh đạo 2 dự án công nghệ, Á quân hạng mục Engineering tại Cuộc thi [&#8230;]"
     }
   ]
 }
