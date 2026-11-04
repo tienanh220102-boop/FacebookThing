@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-11-03T12:39:07.946021+07:00",
-  "total": 445,
+  "crawled_at": "2026-11-04T12:08:57.295759+07:00",
+  "total": 455,
   "articles": [
     {
       "source": "Tin tuc",
@@ -3561,6 +3561,86 @@
       "created": "03/11/2026 10:51",
       "created_ts": 1793677901.0,
       "summary": "Với đầu vào ấn tượng, 3 cô gái Cóc Vàng FPTU cơ sở Đà Nẵng: Dương Nguyễn Tường Vy, Đường Yến Vy và Phan Đoàn Quỳnh Trâm tiếp tục chứng minh bản lĩnh và năng lực của mình để ngày càng gom góp nhiều trải nghiệm rực rỡ trên giảng đường đại học.  Yến Vy: [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên Trường Đại học FPT phát triển hệ sinh thái AI Agent tự động hóa bán hàng cho doanh nghiệp vừa và nhỏ",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/he-sinh-thai-ai-agent/",
+      "created": "04/11/2026 11:09",
+      "created_ts": 1793765342.0,
+      "summary": "Hệ sinh thái AI Agent WISA và KODA do sinh viên Trường Đại học FPT phát triển, hỗ trợ tự động hóa bán hàng và tối ưu chi phí ứng dụng AI. Từ quản lý đơn hàng, tồn kho, chăm sóc khách hàng đến phân tích dữ liệu, doanh nghiệp vừa và nhỏ (SME) thường [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên Trường Đại học FPT phát triển MushTIO – hệ thống IoT chuyên biệt cho nghề trồng nấm ở miền Tây",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/he-thong-mushtio/",
+      "created": "04/11/2026 10:59",
+      "created_ts": 1793764773.0,
+      "summary": "MushTIO là hệ thống IoT do sinh viên Trường Đại học FPT phát triển, giúp giám sát môi trường trồng nấm và hướng đến nông nghiệp thông minh ở miền Tây. Nhiệt độ, độ ẩm và độ thông thoáng là những yếu tố quan trọng ảnh hưởng đến môi trường sinh trưởng của nấm. Việc [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Chân dung thủ khoa FPTU sở hữu loạt công trình nghiên cứu quốc tế, đưa dự án AI ra nước ngoài",
+      "link": "https://daihoc.fpt.edu.vn/tin-noi-bat-muc-tin-tuc/chan-dung-thu-khoa-fptu-so-huu-loat-cong-trinh-nghien-cuu-quoc-te-dua-du-an-ai-ra-nuoc-ngoai/",
+      "created": "04/11/2026 08:00",
+      "created_ts": 1793754029.0,
+      "summary": "Tốt nghiệp với GPA 9.33, sở hữu nhiều công trình nghiên cứu khoa học quốc tế, giải thưởng học thuật và dẫn dắt dự án khởi nghiệp ứng dụng AI được doanh nghiệp tiếp nhận, Nguyễn Hữu Lượng &#8211; tân thủ khoa ngành Quản trị kinh doanh, Trường Đại học FPT cơ sở Cần Thơ [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên Trường Đại học FPT ghi dấu ấn tại cuộc thi “Việt Nam – Trung Quốc: Kết nối và Hữu nghị” 2026",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/sinh-vien-truong-dai-hoc-fpt-4/",
+      "created": "03/11/2026 17:22",
+      "created_ts": 1793701359.0,
+      "summary": "Sinh viên Trường Đại học FPT ghi dấu ấn tại cuộc thi “Việt Nam – Trung Quốc: Kết nối và Hữu nghị” 2026 với nhiều giải thưởng nổi bật. Sinh viên Trường Đại học FPT ghi dấu ấn tại cuộc thi “Việt Nam – Trung Quốc: Kết nối và Hữu nghị” 2026 Sinh viên Trường [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên Trường Đại học FPT lan tỏa yêu thương qua chương trình “Tiếp nối nụ cười – Đêm hội trăng rằm 2026″",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/tiep-noi-nu-cuoi/",
+      "created": "03/11/2026 17:15",
+      "created_ts": 1793700924.0,
+      "summary": "Chương trình Tiếp nối nụ cười mang Trung thu ấm áp đến trẻ em có hoàn cảnh khó khăn, đồng thời giúp sinh viên Trường Đại học FPT lan tỏa tinh thần sẻ chia. Sinh viên Trường Đại học FPT lan tỏa yêu thương qua chương trình “Tiếp nối nụ cười – Đêm hội trăng [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Trường Đại học FPT triển khai đào tạo AI thực chiến cho gần 400 sinh viên và cựu sinh viên",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/dao-tao-ai-thuc-chien/",
+      "created": "03/11/2026 17:01",
+      "created_ts": 1793700073.0,
+      "summary": "Trường Đại học FPT triển khai đào tạo AI thực chiến cho gần 400 sinh viên và cựu sinh viên, hướng đến ứng dụng AI hiệu quả trong từng lĩnh vực. Khi trí tuệ nhân tạo (AI) đang từng bước thay đổi cách con người học tập và làm việc, câu hỏi không còn đơn [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên Trường Đại học FPT xây dựng hệ thống quản lý cấu hình thiết bị an toàn tích hợp AI",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/he-thong-quan-ly-cau-hinh/",
+      "created": "03/11/2026 16:55",
+      "created_ts": 1793699703.0,
+      "summary": "Sinh viên Trường Đại học FPT xây dựng hệ thống quản lý cấu hình thiết bị an toàn tích hợp AI, hỗ trợ giám sát, cảnh báo và điều tra sự cố. Trong môi trường doanh nghiệp hiện đại, hàng trăm, thậm chí hàng nghìn thiết bị có thể cùng hoạt động trong một hạ [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên Trường Đại học FPT phát triển LockSend – giải pháp lưu trữ và chia sẻ tệp an toàn trên đám mây",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/locksend-giai-phap-luu-tru/",
+      "created": "03/11/2026 16:44",
+      "created_ts": 1793699055.0,
+      "summary": "LockSend do sinh viên Trường Đại học FPT phát triển, mã hóa tệp ngay trên trình duyệt trước khi lưu trữ và chia sẻ trên đám mây. Trong bối cảnh nhu cầu lưu trữ và chia sẻ dữ liệu trên nền tảng đám mây ngày càng phổ biến, bảo vệ tài liệu trước nguy cơ [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên Trường Đại học FPT ghi dấu ấn tại AIPR 2026 với 4 nghiên cứu về AI, 1 Best Paper và 2 Best Presentation",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/sinh-vien-truong-dai-hoc-fpt-3/",
+      "created": "03/11/2026 16:34",
+      "created_ts": 1793698455.0,
+      "summary": "Sinh viên Trường Đại học FPT tại AIPR 2026 mang 4 nghiên cứu về AI đến diễn đàn quốc tế, giành 1 Best Paper và 2 Best Presentation. Từ ngày 11–13/9/2026 tại Hạ Môn (Xiamen), Trung Quốc, sinh viên chuyên ngành An toàn thông tin, Trường Đại học FPT đã tham dự Hội thảo Quốc [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên Trường Đại học FPT ứng dụng AI nhận diện bệnh trên tôm bằng thiết bị di động",
+      "link": "https://daihoc.fpt.edu.vn/tin-campus/tin-campus-can-tho/ai-nhan-dien-benh-tren-tom/",
+      "created": "03/11/2026 16:19",
+      "created_ts": 1793697564.0,
+      "summary": "AI nhận diện bệnh trên tôm được sinh viên Trường Đại học FPT phát triển thành ứng dụng di động, hỗ trợ sàng lọc bệnh mang đen và đốm trắng. Từ những hình ảnh tôm được chụp bằng điện thoại trong điều kiện thực tế, nhóm sinh viên chuyên ngành Trí tuệ nhân tạo Trường [&#8230;]"
     }
   ]
 }
