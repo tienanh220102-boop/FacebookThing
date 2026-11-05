@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-11-04T12:08:57.295759+07:00",
-  "total": 455,
+  "crawled_at": "2026-11-05T12:30:11.927966+07:00",
+  "total": 456,
   "articles": [
     {
       "source": "Tin tuc",
@@ -3641,6 +3641,14 @@
       "created": "03/11/2026 16:19",
       "created_ts": 1793697564.0,
       "summary": "AI nhận diện bệnh trên tôm được sinh viên Trường Đại học FPT phát triển thành ứng dụng di động, hỗ trợ sàng lọc bệnh mang đen và đốm trắng. Từ những hình ảnh tôm được chụp bằng điện thoại trong điều kiện thực tế, nhóm sinh viên chuyên ngành Trí tuệ nhân tạo Trường [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Trường Đại học FPT và Airbus ký kết Biên bản ghi nhớ nhằm phát triển thế hệ nhân lực hàng không vũ trụ tương lai cho Việt Nam",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/truong-dai-hoc-fpt-va-airbus-ky-ket-bien-ban-ghi-nho-nham-phat-trien-the-he-nhan-luc-hang-khong-vu-tru-tuong-lai-cho-viet-nam/",
+      "created": "04/11/2026 15:49",
+      "created_ts": 1793782194.0,
+      "summary": "Sáng 4/11, Biên bản ghi nhớ hợp tác giữa Trường Đại học FPT (FPTU) và Airbus đã được công bố tại Triển lãm và Diễn đàn Công nghiệp Hàng không Việt Nam 2026. Hợp tác này góp phần tăng cường kết nối giữa doanh nghiệp, nhà trường và ngành hàng không; đồng thời tạo điều [&#8230;]"
     }
   ]
 }
