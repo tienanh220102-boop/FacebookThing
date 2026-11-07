@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-11-06T12:28:36.743821+07:00",
-  "total": 461,
+  "crawled_at": "2026-11-07T11:57:07.041022+07:00",
+  "total": 462,
   "articles": [
     {
       "source": "Tin tuc",
@@ -3689,6 +3689,14 @@
       "created": "05/11/2026 17:07",
       "created_ts": 1793873253.0,
       "summary": "Vòng chung kết quốc gia  ICPC 2026 dự kiến sẽ diễn ra tại Hà Nội trong 2 ngày 7-8/11. Từ dấu mốc Giải Ba ICPC miền Trung 2026, đội tuyển Galacticos đến từ FPTU tiến thẳng đến Vòng chung kết Quốc gia, quyết tâm bứt phá với thành tích cao hơn.  Sau các vòng thi [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên FPTU xây dựng nền tảng gia sư tích hợp AI, hướng đến trải nghiệm học tập cá nhân hóa",
+      "link": "https://daihoc.fpt.edu.vn/tin-noi-bat-muc-tin-tuc/sinh-vien-fptu-xay-dung-nen-tang-gia-su-tich-hop-ai-huong-den-trai-nghiem-hoc-tap-ca-nhan-hoa/",
+      "created": "07/11/2026 10:25",
+      "created_ts": 1794021937.0,
+      "summary": "Từ trải nghiệm ba năm làm gia sư Toán, Nguyễn Thị Tuyết Hương cùng nhóm sinh viên Trường Đại học FPT (FPTU) phát triển BeeWise &#8211; nền tảng công nghệ giáo dục hướng đến kết nối gia sư, học viên và phụ huynh, đồng thời ứng dụng trí tuệ nhân tạo (AI) để cá nhân [&#8230;]"
     }
   ]
 }
