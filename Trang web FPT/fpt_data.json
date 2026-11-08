@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-11-07T11:57:07.041022+07:00",
-  "total": 462,
+  "crawled_at": "2026-11-08T11:51:02.509935+07:00",
+  "total": 463,
   "articles": [
     {
       "source": "Tin tuc",
@@ -3697,6 +3697,14 @@
       "created": "07/11/2026 10:25",
       "created_ts": 1794021937.0,
       "summary": "Từ trải nghiệm ba năm làm gia sư Toán, Nguyễn Thị Tuyết Hương cùng nhóm sinh viên Trường Đại học FPT (FPTU) phát triển BeeWise &#8211; nền tảng công nghệ giáo dục hướng đến kết nối gia sư, học viên và phụ huynh, đồng thời ứng dụng trí tuệ nhân tạo (AI) để cá nhân [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Truyền thông Nhật Bản tìm hiểu, đưa tin về hệ sinh thái đào tạo nhân lực công nghệ quốc tế tại FPTU",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/truyen-thong-nhat-ban-tim-hieu-dua-tin-ve-he-sinh-thai-dao-tao-nhan-luc-cong-nghe-quoc-te-tai-fptu/",
+      "created": "08/11/2026 09:16",
+      "created_ts": 1794104188.0,
+      "summary": "Vừa qua, FPTU liên tiếp đón các cơ quan báo chí lớn của Nhật Bản như Sankei Shimbun hay Toyo Keizai đến tìm hiểu để đưa tin về mô hình đào tạo gắn thực tiễn doanh nghiệp, phát triển nguồn nhân lực công nghệ và năng lực hội nhập quốc tế cho sinh viên. Ngày [&#8230;]"
     }
   ]
 }
