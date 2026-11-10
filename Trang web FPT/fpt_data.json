@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-11-09T11:58:49.053178+07:00",
-  "total": 464,
+  "crawled_at": "2026-11-10T13:15:45.695440+07:00",
+  "total": 465,
   "articles": [
     {
       "source": "Tin tuc",
@@ -3713,6 +3713,14 @@
       "created": "09/11/2026 09:15",
       "created_ts": 1794190552.0,
       "summary": "Sau 4 năm học tại FPTU, từ một chàng trai rụt rè, nhiều bỡ ngỡ, Phạm Hiền Nhân đã thay đổi bản thân, trưởng thành vượt bậc. Không nhữngg trở thành thủ khoa tốt nghiệp với GPA 9,03, Hiền Nhân còn sở hữu hàng loạt thành tích về học thuật lẫn kinh nghiệm làm việc [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên FPTU đạt giải Bạc kỳ thi ICPC Quốc gia 2026",
+      "link": "https://daihoc.fpt.edu.vn/tin-tuc/sinh-vien-fptu-dat-giai-bac-ky-thi-icpc-quoc-gia-2026/",
+      "created": "09/11/2026 16:19",
+      "created_ts": 1794215979.0,
+      "summary": "Sinh viên FPTU ghi dấu với thành tích giải Bạc thuộc về đội Worry King và giải Khuyến khích thuộc về đội Egorithm tại kỳ thi ICPC Quốc gia 2026 diễn ra ngày 7-8/11. Trước khi vào chung kết, Worry King và Egorithm cũng đạt giải Nhì tại vòng ICPC miền Bắc và miền Nam, [&#8230;]"
     }
   ]
 }
