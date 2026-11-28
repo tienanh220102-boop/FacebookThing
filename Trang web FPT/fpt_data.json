@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-11-27T14:05:18.461621+07:00",
-  "total": 489,
+  "crawled_at": "2026-11-28T13:39:03.249221+07:00",
+  "total": 490,
   "articles": [
     {
       "source": "Tin tuc",
@@ -3913,6 +3913,14 @@
       "created": "26/11/2026 16:36",
       "created_ts": 1795685779.0,
       "summary": "Ngày 26/11, tại Trường Đại học FPT (FPTU), hội nghị quốc tế lần thứ nhất về Hệ thống thông minh và Công nghệ tiên tiến (EAI FISAT 2026) chính thức khai mạc. Hội nghị diễn ra tại Tp.HCM quy tụ đông đảo các nhà khoa học, chuyên gia trong nước và quốc tế, với 153 [&#8230;]"
+    },
+    {
+      "source": "Tin tuc",
+      "title": "Sinh viên FPTU giành giải Bài nghiên cứu xuất sắc nhất (Best Paper Award) tại hội thảo quốc tế EAI FISAT 2026",
+      "link": "https://daihoc.fpt.edu.vn/tin-nghien-cuu-khoa-hoc/sinh-vien-fptu-gianh-giai-bai-nghien-cuu-xuat-sac-nhat-best-paper-award-tai-hoi-thao-quoc-te-eai-fisat-2026/",
+      "created": "28/11/2026 09:04",
+      "created_ts": 1795831473.0,
+      "summary": "Với nghiên cứu về việc phát hiện hiện tượng ảo giác AI trong tiếng Việt, Trần Hữu Nhân &#8211; K18, chuyên ngành Trí tuệ nhân tạo, Trường Đại học FPT cơ sở Cần Thơ xuất sắc giành giải Best Paper Award tại hội thảo quốc tế EAI FISAT 2026. Nghiên cứu của Nhân là 1 [&#8230;]"
     }
   ]
 }
